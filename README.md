@@ -13,7 +13,6 @@
 
 Mobile application + ML pipeline that classifies plant species and detects leaf mutations/diseases using a compact CNN (EfficientNetB0). The app performs **offline inference** with a quantized TensorFlow Lite model and stores scan results locally (SQLite).
 
-**Author:** Serhievich
 
 ---
 
@@ -99,6 +98,121 @@ Make sure labels used by the mobile app match the training mapping:
 The `mobile_app/assets/labels.txt` or `data/processed/class_indices.json` must reflect this exact ordering.
 
 ---
+
+---
+
+### `data_preparation.ipynb` — Data preparation & splitting
+
+**Purpose**
+Prepare raw images for training: cleaning, resizing/cropping, class balancing, augmentation and splitting into `train / val / test` folders. Also saves metadata and class ↔ index mapping.
+
+**Inputs**
+
+* `data/raw/` — original images organized by class subfolders.
+* Notebook parameters (image size, split ratios).
+
+**Outputs**
+
+* `data/processed/train/`, `data/processed/val/`, `data/processed/test/`
+* `data/processed/class_indices.json` (mapping used by model & app)
+* `data/processed/*.csv` (train/val/test metadata)
+* diagnostic plots (e.g., class distribution)
+
+**Run (interactive)**
+
+```bash
+# create & activate env, install deps first
+python -m venv .venv
+source .venv/bin/activate   # or .venv\Scripts\Activate.ps1 on Windows
+pip install -r requirements.txt
+
+jupyter lab
+# open notebooks/data_preparation.ipynb and run cells
+```
+
+**Run (headless / CI)**
+
+```bash
+jupyter nbconvert --to notebook --execute notebooks/data_preparation.ipynb \
+  --ExecutePreprocessor.timeout=600 --output notebooks/data_preparation.executed.ipynb
+```
+
+---
+
+### `model_development.ipynb` — Model training, validation & export
+
+**Purpose**
+Train EfficientNetB0 (or load existing), monitor metrics, produce test evaluation, save best `.h5` model and convert to a quantized `.tflite` using a representative dataset.
+
+**Inputs**
+
+* `data/processed/` (train/val/test folders and class\_indices.json)
+* training hyperparameters (batch size, epochs, learning rate)
+* optional pre-trained weights or existing `models/best_model.h5`
+
+**Outputs**
+
+* `models/best_model.h5` (best checkpoint)
+* `models/model_quant.tflite` (INT8 quantized TFLite)
+* `models/training_history.png`, `models/model_report.json`, confusion matrix plots
+
+**Run (interactive)**
+
+```bash
+# in activated venv from above
+jupyter lab
+# open notebooks/model_development.ipynb and run cells
+```
+
+**Run (headless / script mode)**
+If you also export training to a script:
+
+```bash
+python scripts/train_model.py --config configs/train.yaml
+# or run notebook:
+jupyter nbconvert --to notebook --execute notebooks/model_development.ipynb \
+  --ExecutePreprocessor.timeout=3600 --output notebooks/model_development.executed.ipynb
+```
+
+**Notes**
+
+* The TFLite conversion in the notebook uses a `representative_dataset()` generator (required for INT8). Keep `class_indices.json` ordering consistent with app labels.
+
+---
+
+### `new_test.ipynb` / `scripts/new_test.py` — Inference & smoke tests
+
+**Purpose**
+Run inference on individual images using the exported TFLite model; verify preprocessing, dequantization and label mapping. Useful for quick checks and generating example outputs for README or app UI.
+
+**Inputs**
+
+* `models/model_quant.tflite` (or float model)
+* sample images (`samples/` or `data/new_test_images/`)
+* `data/processed/class_indices.json` or `mobile_app/assets/labels.txt`
+
+**Outputs**
+
+* Console results: predicted class + confidence
+* Saved visualization `models/new_images_test.png` (optional)
+* per-image logs for debugging
+
+**Run (script)**
+
+```bash
+# interactive: open new_test.ipynb in Jupyter and run cells
+# script:
+python scripts/new_test.py --model models/model_quant.tflite --image samples/test1.jpg
+```
+
+**Important checks performed by script**
+
+* correct resize (`224x224` by default)
+* use of `efficientnet.preprocess_input` (same preprocessing as training)
+* dtype matching (if TFLite is INT8 — input must be `uint8`)
+* dequantization: `(out - zero_point) * scale` to get real scores
+
+
 
 ## Quickstart — ML (training & testing)
 
@@ -264,39 +378,4 @@ git push origin main
 
 When preparing reports include: precision, recall, F1 per class, confusion matrix, ROC/AUC if applicable, and type I/II error rates.
 
----
 
-## Troubleshooting & common pitfalls
-
-* **Wrong labels shown**: ensure `labels.txt` / `class_indices.json` in `mobile_app/assets/` matches training order.
-* **Constant predictions / low confidence**: verify preprocessing (EfficientNet `preprocess_input`), input dtype (`uint8` vs `float32`) and that representative dataset was used for quantization.
-* **Large files rejected by GitHub**: remove them from commits and use `.gitignore` or Git LFS.
-* **Flutter plugin issues (IDE)**: try `flutter pub get` and `flutter run` from terminal if IDE plugin fails.
-
----
-
-## References
-
-* Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking Model Scaling for CNNs. *ICML*.
-* TensorFlow Lite — [https://www.tensorflow.org/lite](https://www.tensorflow.org/lite)
-* PlantVillage dataset (Kaggle): [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/emmarex/plantdisease)
-* Potato Leaf Disease dataset (Kaggle)
-
----
-
-## Contact & License
-
-**Author:** Serhievich
-**License:** MIT — see `LICENSE`
-
----
-
-If you want, I can:
-
-* generate a `requirements.txt` (finalized list),
-* add a ready `.gitattributes` for Git LFS,
-* scaffold `scripts/` with `train.py`, `convert_to_tflite.py`, and `test_inference.py`.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
