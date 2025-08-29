@@ -9,7 +9,7 @@
 
 
 
-## TL;DR
+## Description
 
 Mobile application + ML pipeline that classifies plant species and detects leaf mutations/diseases using a compact CNN (EfficientNetB0). The app performs **offline inference** with a quantized TensorFlow Lite model and stores scan results locally (SQLite).
 
@@ -23,7 +23,7 @@ Mobile application + ML pipeline that classifies plant species and detects leaf 
 - Camera & gallery input (Flutter)  
 - Persistent scan history (SQLite)  
 - Preprocessing utilities (OpenCV) and reproducible Jupyter notebooks  
-- Simple conversion script for `.h5` → `.tflite` with representative dataset
+- Simple conversion for `.h5` → `.tflite` with representative dataset
 
 ---
 
@@ -51,8 +51,6 @@ PlantRecognitionSystem/
 │  ├─ model\_development.ipynb      # model training & evaluation
 │  └─ new\_test.ipynb               # inference tests
 │
-├─ scripts/
-│  └─ new\_test.py                  # example inference script for TFLite model
 ├─ models\_report/                  # model card, confusion matrices, benchmark results
 ├─ .gitignore
 └─ README.md
@@ -123,8 +121,7 @@ Prepare raw images for training: cleaning, resizing/cropping, class balancing, a
 ```bash
 # create & activate env, install deps first
 python -m venv .venv
-source .venv/bin/activate   # or .venv\Scripts\Activate.ps1 on Windows
-pip install -r requirements.txt
+
 
 jupyter lab
 # open notebooks/data_preparation.ipynb and run cells
@@ -164,15 +161,6 @@ jupyter lab
 # open notebooks/model_development.ipynb and run cells
 ```
 
-**Run (headless / script mode)**
-If you also export training to a script:
-
-```bash
-python scripts/train_model.py --config configs/train.yaml
-# or run notebook:
-jupyter nbconvert --to notebook --execute notebooks/model_development.ipynb \
-  --ExecutePreprocessor.timeout=3600 --output notebooks/model_development.executed.ipynb
-```
 
 **Notes**
 
@@ -180,7 +168,7 @@ jupyter nbconvert --to notebook --execute notebooks/model_development.ipynb \
 
 ---
 
-### `new_test.ipynb` / `scripts/new_test.py` — Inference & smoke tests
+### `new_test.ipynb`  — Inference & smoke tests
 
 **Purpose**
 Run inference on individual images using the exported TFLite model; verify preprocessing, dequantization and label mapping. Useful for quick checks and generating example outputs for README or app UI.
@@ -197,15 +185,8 @@ Run inference on individual images using the exported TFLite model; verify prepr
 * Saved visualization `models/new_images_test.png` (optional)
 * per-image logs for debugging
 
-**Run (script)**
 
-```bash
-# interactive: open new_test.ipynb in Jupyter and run cells
-# script:
-python scripts/new_test.py --model models/model_quant.tflite --image samples/test1.jpg
-```
-
-**Important checks performed by script**
+**Important checks**
 
 * correct resize (`224x224` by default)
 * use of `efficientnet.preprocess_input` (same preprocessing as training)
@@ -229,12 +210,9 @@ cd /path/to/PlantRecognitionSystem
 python -m venv .venv
 # macOS / Linux
 source .venv/bin/activate
-# Windows (PowerShell)
-# .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
 ```
 
-**Suggested `requirements.txt`**
+**Suggested**
 
 ```
 tensorflow>=2.9
@@ -255,7 +233,6 @@ jupyter lab
 
 ### Example inference (TFLite)
 
-A minimal script (`scripts/new_test.py`) should:
 
 * load `models/model_quant.tflite` via `tf.lite.Interpreter`
 * preprocess the image using `tensorflow.keras.applications.efficientnet.preprocess_input`
@@ -264,11 +241,7 @@ A minimal script (`scripts/new_test.py`) should:
 * read output and **dequantize** using `output_details['quantization']` (scale, zero\_point)
 * print class name and confidence
 
-Run:
 
-```bash
-python scripts/new_test.py --model models/model_quant.tflite --image samples/test1.jpg
-```
 
 ---
 
@@ -308,7 +281,7 @@ flutter build apk --release
 
 ---
 
-## Model conversion (recommended pattern)
+## Model conversion
 
 Use a representative dataset for INT8 quantization:
 
