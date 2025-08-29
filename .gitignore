@@ -1,0 +1,99 @@
+# ================================
+# Flutter / Dart
+# ================================
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Android
+android/.gradle/
+android/app/release/
+android/key.properties
+*.jks
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/ServiceDefinitions.json
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+
+# ================================
+# Python / Jupyter
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+*.egg
+*.pkl
+*.pickle
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.json
+
+# Virtual env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# ================================
+# Machine Learning / Data Science
+# ================================
+# Models
+*.h5
+*.tflite
+*.pb
+*.onnx
+*.ckpt
+*.pth
+*.pt
+
+# Training artifacts
+models/
+checkpoints/
+logs/
+*.tensorboard
+
+# Data
+data/raw/
+data/processed/
+data/tmp/
+*.csv
+*.tsv
+*.parquet
+*.npz
+*.npy
+
+# ================================
+# IDE & Editors
+# ================================
+.idea/
+.vscode/
+*.iml
+
+# ================================
+# Other
+# ================================
+*.log
+*.tmp
+*.lock
+.DS_Store
+Thumbs.db

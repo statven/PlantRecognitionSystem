@@ -1,0 +1,9 @@
+Bacteria
+Early_blight
+Fungi
+Healthy
+Late_blight
+Nematode
+Pest
+Phytopthora
+Virus
