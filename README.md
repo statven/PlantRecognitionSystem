@@ -1,4 +1,4 @@
-```markdown
+
 # 🌱 Intelligent System for Plant & Mutation Recognition
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/statven/PlantRecognitionSystem?style=flat)](https://github.com/statven/PlantRecognitionSystem)
 
----
+
 
 ## TL;DR
 
