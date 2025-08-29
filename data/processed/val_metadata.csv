@@ -1,0 +1,786 @@
+image_path,class,file_name
+data\raw\Pest\20230802_115833816.jpg,Pest,20230802_115833816.jpg
+data\raw\Phytopthora\IMG_0251 - Copy.JPG,Phytopthora,IMG_0251 - Copy.JPG
+data\raw\Early_blight\13cfb9dc-8951-44c0-8c16-e96fd6ccc659___RS_Early.B 7070.JPG,Early_blight,13cfb9dc-8951-44c0-8c16-e96fd6ccc659___RS_Early.B 7070.JPG
+data\raw\Early_blight\4b925312-1973-41cf-afdf-9090d02dd539___RS_Early.B 7913.JPG,Early_blight,4b925312-1973-41cf-afdf-9090d02dd539___RS_Early.B 7913.JPG
+data\raw\Bacteria\20230815_114717.jpg,Bacteria,20230815_114717.jpg
+data\raw\Early_blight\769b00f1-f5cf-4dee-a2c6-6e97414450f6___RS_Early.B 9149.JPG,Early_blight,769b00f1-f5cf-4dee-a2c6-6e97414450f6___RS_Early.B 9149.JPG
+data\raw\Early_blight\03b0d3c1-b5b0-48f4-98aa-f8904670290f___RS_Early.B 7051.JPG,Early_blight,03b0d3c1-b5b0-48f4-98aa-f8904670290f___RS_Early.B 7051.JPG
+data\raw\Late_blight\ae52f85f-bce0-4fb9-a109-009e099a72e6___RS_LB 4972.JPG,Late_blight,ae52f85f-bce0-4fb9-a109-009e099a72e6___RS_LB 4972.JPG
+data\raw\Phytopthora\IMG_8105.JPG,Phytopthora,IMG_8105.JPG
+data\raw\Virus\IMG_0338.JPG,Virus,IMG_0338.JPG
+data\raw\Bacteria\20230815_111818.jpg,Bacteria,20230815_111818.jpg
+data\raw\Virus\IMG_0270.JPG,Virus,IMG_0270.JPG
+data\raw\Late_blight\98a806fd-2839-4069-b40b-08522c34ccdc___RS_LB 3032.JPG,Late_blight,98a806fd-2839-4069-b40b-08522c34ccdc___RS_LB 3032.JPG
+data\raw\Healthy\20230712_131002.jpg,Healthy,20230712_131002.jpg
+data\raw\Early_blight\8ee79bf1-78d0-4c93-b42c-301d54e64f41___RS_Early.B 8388.JPG,Early_blight,8ee79bf1-78d0-4c93-b42c-301d54e64f41___RS_Early.B 8388.JPG
+data\raw\Bacteria\IMG_0355.JPG,Bacteria,IMG_0355.JPG
+data\raw\Late_blight\6e9fc91a-e20f-4431-bc54-8492d7ec788e___RS_LB 4527.JPG,Late_blight,6e9fc91a-e20f-4431-bc54-8492d7ec788e___RS_LB 4527.JPG
+data\raw\Virus\IMG_0819.JPG,Virus,IMG_0819.JPG
+data\raw\Pest\20230712_124530.jpg,Pest,20230712_124530.jpg
+data\raw\Late_blight\38f1a80d-6961-4763-ada2-7504f388cf2d___RS_LB 3217.JPG,Late_blight,38f1a80d-6961-4763-ada2-7504f388cf2d___RS_LB 3217.JPG
+data\raw\Healthy\61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL 1966.JPG,Healthy,61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL 1966.JPG
+data\raw\Bacteria\20230816_142507.jpg,Bacteria,20230816_142507.jpg
+data\raw\Virus\IMG_0738.JPG,Virus,IMG_0738.JPG
+data\raw\Late_blight\6be49d30-1b69-435a-a533-21b2b1a7fd41___RS_LB 3309.JPG,Late_blight,6be49d30-1b69-435a-a533-21b2b1a7fd41___RS_LB 3309.JPG
+data\raw\Fungi\IMG_20230816_121138.jpg,Fungi,IMG_20230816_121138.jpg
+data\raw\Healthy\a02b6205-b40a-4178-8b34-3494f84b9d1f___RS_HL 1958.JPG,Healthy,a02b6205-b40a-4178-8b34-3494f84b9d1f___RS_HL 1958.JPG
+data\raw\Early_blight\422fa1a6-d0f7-4634-9233-0d002ff139ae___RS_Early.B 7218.JPG,Early_blight,422fa1a6-d0f7-4634-9233-0d002ff139ae___RS_Early.B 7218.JPG
+data\raw\Early_blight\d998c614-017c-4f90-8e39-f8c500d21218___RS_Early.B 8292.JPG,Early_blight,d998c614-017c-4f90-8e39-f8c500d21218___RS_Early.B 8292.JPG
+data\raw\Late_blight\ea5fc080-37a7-4954-ba8c-a5d67b6a0962___RS_LB 2888.JPG,Late_blight,ea5fc080-37a7-4954-ba8c-a5d67b6a0962___RS_LB 2888.JPG
+data\raw\Late_blight\faf67766-afc0-4f41-af0b-a3971fe325c7___RS_LB 4777.JPG,Late_blight,faf67766-afc0-4f41-af0b-a3971fe325c7___RS_LB 4777.JPG
+data\raw\Late_blight\1c6412c9-45ce-4814-af8d-274f4e3c9c4e___RS_LB 2746.JPG,Late_blight,1c6412c9-45ce-4814-af8d-274f4e3c9c4e___RS_LB 2746.JPG
+data\raw\Virus\20230815_150527.jpg,Virus,20230815_150527.jpg
+data\raw\Pest\20230802_120119897.jpg,Pest,20230802_120119897.jpg
+data\raw\Fungi\20230712_114543.jpg,Fungi,20230712_114543.jpg
+data\raw\Fungi\1692335403639.jpg,Fungi,1692335403639.jpg
+data\raw\Late_blight\90596f7b-1efa-4595-8d57-bcbd4c48253f___RS_LB 4753.JPG,Late_blight,90596f7b-1efa-4595-8d57-bcbd4c48253f___RS_LB 4753.JPG
+data\raw\Virus\IMG_0414.JPG,Virus,IMG_0414.JPG
+data\raw\Early_blight\d1b4cb77-db0e-42db-b1c0-25d222844241___RS_Early.B 7130.JPG,Early_blight,d1b4cb77-db0e-42db-b1c0-25d222844241___RS_Early.B 7130.JPG
+data\raw\Virus\IMG_1265.JPG,Virus,IMG_1265.JPG
+data\raw\Late_blight\1e0326a5-b208-447f-9d60-f788ec4b6e3f___RS_LB 4526.JPG,Late_blight,1e0326a5-b208-447f-9d60-f788ec4b6e3f___RS_LB 4526.JPG
+data\raw\Late_blight\d5bf2575-1e57-4792-81a1-5770e701be1b___RS_LB 3209.JPG,Late_blight,d5bf2575-1e57-4792-81a1-5770e701be1b___RS_LB 3209.JPG
+data\raw\Early_blight\a601dd4d-4e81-4327-9e4e-fd19262a1306___RS_Early.B 8265.JPG,Early_blight,a601dd4d-4e81-4327-9e4e-fd19262a1306___RS_Early.B 8265.JPG
+data\raw\Late_blight\c18a017c-262c-41ca-93f3-8fc97ffd7043___RS_LB 4770.JPG,Late_blight,c18a017c-262c-41ca-93f3-8fc97ffd7043___RS_LB 4770.JPG
+data\raw\Fungi\20230802_105558.jpg,Fungi,20230802_105558.jpg
+data\raw\Late_blight\9e1dc573-9cc5-4bc1-9c95-63c7bfba54f1___RS_LB 2976.JPG,Late_blight,9e1dc573-9cc5-4bc1-9c95-63c7bfba54f1___RS_LB 2976.JPG
+data\raw\Healthy\20230712_130756.jpg,Healthy,20230712_130756.jpg
+data\raw\Fungi\1692334247650.jpg,Fungi,1692334247650.jpg
+data\raw\Late_blight\44112cb9-7423-4983-bb9a-cb32e3ea9ac3___RS_LB 2793.JPG,Late_blight,44112cb9-7423-4983-bb9a-cb32e3ea9ac3___RS_LB 2793.JPG
+data\raw\Bacteria\20230816_134527.jpg,Bacteria,20230816_134527.jpg
+data\raw\Bacteria\20230816_134520.jpg,Bacteria,20230816_134520.jpg
+data\raw\Early_blight\fbc1b154-7b53-4ac5-ad3a-5e9e5078a289___RS_Early.B 7551.JPG,Early_blight,fbc1b154-7b53-4ac5-ad3a-5e9e5078a289___RS_Early.B 7551.JPG
+data\raw\Fungi\20230712_123052.jpg,Fungi,20230712_123052.jpg
+data\raw\Virus\IMG_0995.JPG,Virus,IMG_0995.JPG
+data\raw\Virus\20230802_120041.jpg,Virus,20230802_120041.jpg
+data\raw\Bacteria\IMG_1117.JPG,Bacteria,IMG_1117.JPG
+data\raw\Bacteria\20230815_111336.jpg,Bacteria,20230815_111336.jpg
+data\raw\Virus\IMG_0408.JPG,Virus,IMG_0408.JPG
+data\raw\Fungi\IMG_20230816_122603~2.jpg,Fungi,IMG_20230816_122603~2.jpg
+data\raw\Healthy\20230802_115527375.jpg,Healthy,20230802_115527375.jpg
+data\raw\Early_blight\4d943ff8-e048-43c6-8861-4cdc6adab6a0___RS_Early.B 8726.JPG,Early_blight,4d943ff8-e048-43c6-8861-4cdc6adab6a0___RS_Early.B 8726.JPG
+data\raw\Late_blight\77f5fdf0-42c5-4af9-92d8-366e6a3a2017___RS_LB 4071.JPG,Late_blight,77f5fdf0-42c5-4af9-92d8-366e6a3a2017___RS_LB 4071.JPG
+data\raw\Nematode\20230802_105202.jpg,Nematode,20230802_105202.jpg
+data\raw\Bacteria\20230816_142031.jpg,Bacteria,20230816_142031.jpg
+data\raw\Fungi\IMG_20230815_112858~2.jpg,Fungi,IMG_20230815_112858~2.jpg
+data\raw\Late_blight\c77d14df-faac-47e9-97e1-fc84a7aa6e74___RS_LB 4322.JPG,Late_blight,c77d14df-faac-47e9-97e1-fc84a7aa6e74___RS_LB 4322.JPG
+data\raw\Phytopthora\20230802_125412.jpg,Phytopthora,20230802_125412.jpg
+data\raw\Pest\20230802_115842608.jpg,Pest,20230802_115842608.jpg
+data\raw\Late_blight\9bdce182-987e-4996-8cc8-34694b4e24e9___RS_LB 2837.JPG,Late_blight,9bdce182-987e-4996-8cc8-34694b4e24e9___RS_LB 2837.JPG
+data\raw\Early_blight\11e974fa-928f-45f6-b983-e74c74c7d163___RS_Early.B 7992.JPG,Early_blight,11e974fa-928f-45f6-b983-e74c74c7d163___RS_Early.B 7992.JPG
+data\raw\Bacteria\IMG_1078.JPG,Bacteria,IMG_1078.JPG
+data\raw\Virus\IMG_0422.JPG,Virus,IMG_0422.JPG
+data\raw\Bacteria\20230816_134143.jpg,Bacteria,20230816_134143.jpg
+data\raw\Late_blight\cd0b4621-eccd-434a-8bc1-d3a6d24a2f05___RS_LB 5250.JPG,Late_blight,cd0b4621-eccd-434a-8bc1-d3a6d24a2f05___RS_LB 5250.JPG
+data\raw\Healthy\20230815_123008.jpg,Healthy,20230815_123008.jpg
+data\raw\Late_blight\b86630ca-89d0-4f83-9942-c1bfcce6b06c___RS_LB 4339.JPG,Late_blight,b86630ca-89d0-4f83-9942-c1bfcce6b06c___RS_LB 4339.JPG
+data\raw\Late_blight\82e0f1d2-e996-427b-9216-6b46aedbc07f___RS_LB 4880.JPG,Late_blight,82e0f1d2-e996-427b-9216-6b46aedbc07f___RS_LB 4880.JPG
+data\raw\Late_blight\a8db407c-12cb-460c-991a-8f60d20c06bc___RS_LB 5117.JPG,Late_blight,a8db407c-12cb-460c-991a-8f60d20c06bc___RS_LB 5117.JPG
+data\raw\Pest\IMG_0930.JPG,Pest,IMG_0930.JPG
+data\raw\Bacteria\IMG_0946.JPG,Bacteria,IMG_0946.JPG
+data\raw\Fungi\20230712_154629.jpg,Fungi,20230712_154629.jpg
+data\raw\Virus\IMG_0984.JPG,Virus,IMG_0984.JPG
+data\raw\Early_blight\6319585f-ed2f-4657-ae79-a23db65d0fce___RS_Early.B 7033.JPG,Early_blight,6319585f-ed2f-4657-ae79-a23db65d0fce___RS_Early.B 7033.JPG
+data\raw\Fungi\20230712_155333.jpg,Fungi,20230712_155333.jpg
+data\raw\Pest\IMG_4760.JPG,Pest,IMG_4760.JPG
+data\raw\Pest\IMG_8229.JPG,Pest,IMG_8229.JPG
+data\raw\Healthy\20230712_122745.jpg,Healthy,20230712_122745.jpg
+data\raw\Fungi\1692336759091.jpg,Fungi,1692336759091.jpg
+data\raw\Late_blight\f4e0bb0f-5f98-497c-a090-4e4c47f6707b___RS_LB 5153.JPG,Late_blight,f4e0bb0f-5f98-497c-a090-4e4c47f6707b___RS_LB 5153.JPG
+data\raw\Early_blight\4efd8455-c6ef-4e25-abad-d4d273f84c28___RS_Early.B 8128.JPG,Early_blight,4efd8455-c6ef-4e25-abad-d4d273f84c28___RS_Early.B 8128.JPG
+data\raw\Early_blight\f0cdbf74-8401-48d1-b1cc-94862e1a4452___RS_Early.B 7447.JPG,Early_blight,f0cdbf74-8401-48d1-b1cc-94862e1a4452___RS_Early.B 7447.JPG
+data\raw\Early_blight\a4ac4e39-1342-4b1d-806a-98789876a701___RS_Early.B 8953.JPG,Early_blight,a4ac4e39-1342-4b1d-806a-98789876a701___RS_Early.B 8953.JPG
+data\raw\Early_blight\691161ad-7897-4654-a7bc-14d8b5839621___RS_Early.B 6976.JPG,Early_blight,691161ad-7897-4654-a7bc-14d8b5839621___RS_Early.B 6976.JPG
+data\raw\Early_blight\e0042931-92f3-4527-b292-872075f4261d___RS_Early.B 7203.JPG,Early_blight,e0042931-92f3-4527-b292-872075f4261d___RS_Early.B 7203.JPG
+data\raw\Pest\20230802_125058.jpg,Pest,20230802_125058.jpg
+data\raw\Fungi\IMG_4729.JPG,Fungi,IMG_4729.JPG
+data\raw\Phytopthora\IMG_9520 (1).JPG,Phytopthora,IMG_9520 (1).JPG
+data\raw\Healthy\20230712_131432.jpg,Healthy,20230712_131432.jpg
+data\raw\Phytopthora\20230802_124108005.jpg,Phytopthora,20230802_124108005.jpg
+data\raw\Bacteria\20230816_140010.jpg,Bacteria,20230816_140010.jpg
+data\raw\Virus\IMG_0991.JPG,Virus,IMG_0991.JPG
+data\raw\Early_blight\a8933319-d98e-4e71-a2ac-e22f7e1bca08___RS_Early.B 7499.JPG,Early_blight,a8933319-d98e-4e71-a2ac-e22f7e1bca08___RS_Early.B 7499.JPG
+data\raw\Phytopthora\20230802_124505.jpg,Phytopthora,20230802_124505.jpg
+data\raw\Late_blight\7dfb162c-0384-46b3-bbf7-f0929bd00921___RS_LB 5235.JPG,Late_blight,7dfb162c-0384-46b3-bbf7-f0929bd00921___RS_LB 5235.JPG
+data\raw\Late_blight\73d0be73-8a51-417a-ac46-67a37462efa3___RS_LB 4457.JPG,Late_blight,73d0be73-8a51-417a-ac46-67a37462efa3___RS_LB 4457.JPG
+data\raw\Early_blight\8bcbd0ab-e530-4b6c-83a2-e0c649abbdaf___RS_Early.B 6676.JPG,Early_blight,8bcbd0ab-e530-4b6c-83a2-e0c649abbdaf___RS_Early.B 6676.JPG
+data\raw\Bacteria\IMG_1014.JPG,Bacteria,IMG_1014.JPG
+data\raw\Fungi\20230802_110138011.jpg,Fungi,20230802_110138011.jpg
+data\raw\Virus\20230816_114019.jpg,Virus,20230816_114019.jpg
+data\raw\Bacteria\20230816_142434.jpg,Bacteria,20230816_142434.jpg
+data\raw\Phytopthora\IMG_0245.JPG,Phytopthora,IMG_0245.JPG
+data\raw\Bacteria\IMG_1243.JPG,Bacteria,IMG_1243.JPG
+data\raw\Late_blight\e2ce6696-9f6e-445c-a6c6-c765d659447a___RS_LB 4960.JPG,Late_blight,e2ce6696-9f6e-445c-a6c6-c765d659447a___RS_LB 4960.JPG
+data\raw\Bacteria\20230816_142536.jpg,Bacteria,20230816_142536.jpg
+data\raw\Late_blight\699bd8b5-3c57-48c8-be2b-c8a5e12b0764___RS_LB 4083.JPG,Late_blight,699bd8b5-3c57-48c8-be2b-c8a5e12b0764___RS_LB 4083.JPG
+data\raw\Pest\20230802_120008542.jpg,Pest,20230802_120008542.jpg
+data\raw\Fungi\IMG_0164.JPG,Fungi,IMG_0164.JPG
+data\raw\Pest\IMG_0324.JPG,Pest,IMG_0324.JPG
+data\raw\Fungi\IMG_20230815_115653~2.jpg,Fungi,IMG_20230815_115653~2.jpg
+data\raw\Fungi\IMG_0281.JPG,Fungi,IMG_0281.JPG
+data\raw\Late_blight\80a20af8-9759-4c07-8d0c-d48edc9925c6___RS_LB 5289.JPG,Late_blight,80a20af8-9759-4c07-8d0c-d48edc9925c6___RS_LB 5289.JPG
+data\raw\Virus\20230815_121930.jpg,Virus,20230815_121930.jpg
+data\raw\Bacteria\20230816_140728.jpg,Bacteria,20230816_140728.jpg
+data\raw\Pest\20230816_142514.jpg,Pest,20230816_142514.jpg
+data\raw\Late_blight\9254f86d-5d83-4217-a7f5-84d08e1b93ee___RS_LB 4037.JPG,Late_blight,9254f86d-5d83-4217-a7f5-84d08e1b93ee___RS_LB 4037.JPG
+data\raw\Late_blight\1a674846-9d13-4a7f-ba03-8931c5dd3d2c___RS_LB 2768.JPG,Late_blight,1a674846-9d13-4a7f-ba03-8931c5dd3d2c___RS_LB 2768.JPG
+data\raw\Virus\IMG_9548.JPG,Virus,IMG_9548.JPG
+data\raw\Fungi\1692336758470.jpg,Fungi,1692336758470.jpg
+data\raw\Healthy\20230802_124831.jpg,Healthy,20230802_124831.jpg
+data\raw\Late_blight\0441138d-5f9f-4ede-ab9a-49edabc605b3___RS_LB 4235.JPG,Late_blight,0441138d-5f9f-4ede-ab9a-49edabc605b3___RS_LB 4235.JPG
+data\raw\Virus\20230816_114955.jpg,Virus,20230816_114955.jpg
+data\raw\Pest\20230802_125238.jpg,Pest,20230802_125238.jpg
+data\raw\Pest\IMG_20230816_142642~2.jpg,Pest,IMG_20230816_142642~2.jpg
+data\raw\Early_blight\46819687-0705-4628-8748-9cb356587f30___RS_Early.B 8421.JPG,Early_blight,46819687-0705-4628-8748-9cb356587f30___RS_Early.B 8421.JPG
+data\raw\Pest\1692336758816.jpg,Pest,1692336758816.jpg
+data\raw\Healthy\20230816_121130.jpg,Healthy,20230816_121130.jpg
+data\raw\Nematode\20230712_155420.jpg,Nematode,20230712_155420.jpg
+data\raw\Late_blight\b5f127d1-1b1a-4baa-9158-58cf4b679990___RS_LB 4488.JPG,Late_blight,b5f127d1-1b1a-4baa-9158-58cf4b679990___RS_LB 4488.JPG
+data\raw\Pest\1692336759166.jpg,Pest,1692336759166.jpg
+data\raw\Bacteria\20230816_142603.jpg,Bacteria,20230816_142603.jpg
+data\raw\Pest\20230922_163736.jpg,Pest,20230922_163736.jpg
+data\raw\Pest\IMG_0192.JPG,Pest,IMG_0192.JPG
+data\raw\Fungi\IMG_20230815_115746~2.jpg,Fungi,IMG_20230815_115746~2.jpg
+data\raw\Phytopthora\20230802_130028.jpg,Phytopthora,20230802_130028.jpg
+data\raw\Fungi\20230802_110636.jpg,Fungi,20230802_110636.jpg
+data\raw\Fungi\20230802_111921.jpg,Fungi,20230802_111921.jpg
+data\raw\Nematode\IMG_4733.JPG,Nematode,IMG_4733.JPG
+data\raw\Phytopthora\20230712_144143.jpg,Phytopthora,20230712_144143.jpg
+data\raw\Late_blight\80bdc2a3-66b8-4d95-abe7-65c7806f7cbf___RS_LB 3073.JPG,Late_blight,80bdc2a3-66b8-4d95-abe7-65c7806f7cbf___RS_LB 3073.JPG
+data\raw\Early_blight\faac446b-34ac-414a-9f0e-148d6ee87bfa___RS_Early.B 8934.JPG,Early_blight,faac446b-34ac-414a-9f0e-148d6ee87bfa___RS_Early.B 8934.JPG
+data\raw\Early_blight\34f42d6e-6e09-46cb-800b-5da5fdb5e8b8___RS_Early.B 8110.JPG,Early_blight,34f42d6e-6e09-46cb-800b-5da5fdb5e8b8___RS_Early.B 8110.JPG
+data\raw\Late_blight\ab9b15fb-d4cc-4d67-a5bb-8b88f066c1db___RS_LB 4825.JPG,Late_blight,ab9b15fb-d4cc-4d67-a5bb-8b88f066c1db___RS_LB 4825.JPG
+data\raw\Virus\20230815_122031.jpg,Virus,20230815_122031.jpg
+data\raw\Virus\IMG_0456.JPG,Virus,IMG_0456.JPG
+data\raw\Early_blight\357b61ef-a56b-4207-aa26-161b0ef3e635___RS_Early.B 8492.JPG,Early_blight,357b61ef-a56b-4207-aa26-161b0ef3e635___RS_Early.B 8492.JPG
+data\raw\Virus\IMG_20230816_115049~2.jpg,Virus,IMG_20230816_115049~2.jpg
+data\raw\Late_blight\6fc1834e-7909-4177-9480-6cd9f23109b4___RS_LB 4023.JPG,Late_blight,6fc1834e-7909-4177-9480-6cd9f23109b4___RS_LB 4023.JPG
+data\raw\Late_blight\969aa93b-46d1-478c-a398-dcb4ed7d27bd___RS_LB 2870.JPG,Late_blight,969aa93b-46d1-478c-a398-dcb4ed7d27bd___RS_LB 2870.JPG
+data\raw\Pest\20230922_163547.jpg,Pest,20230922_163547.jpg
+data\raw\Healthy\a4d1d8cb-26a2-413f-a229-021e2eea87ac___RS_HL 1819.JPG,Healthy,a4d1d8cb-26a2-413f-a229-021e2eea87ac___RS_HL 1819.JPG
+data\raw\Late_blight\006cc01a-1888-4326-9b62-a65cb55a6377___RS_LB 5207.JPG,Late_blight,006cc01a-1888-4326-9b62-a65cb55a6377___RS_LB 5207.JPG
+data\raw\Fungi\IMG_0203.JPG,Fungi,IMG_0203.JPG
+data\raw\Pest\20230922_163525.jpg,Pest,20230922_163525.jpg
+data\raw\Late_blight\f795a3d7-2915-447c-9e6f-df1d895f98bc___RS_LB 2792.JPG,Late_blight,f795a3d7-2915-447c-9e6f-df1d895f98bc___RS_LB 2792.JPG
+data\raw\Bacteria\IMG_1248.JPG,Bacteria,IMG_1248.JPG
+data\raw\Early_blight\3682433d-fb0a-495b-a6e8-d753542b042b___RS_Early.B 8189.JPG,Early_blight,3682433d-fb0a-495b-a6e8-d753542b042b___RS_Early.B 8189.JPG
+data\raw\Bacteria\IMG_1130.JPG,Bacteria,IMG_1130.JPG
+data\raw\Bacteria\20230816_140556.jpg,Bacteria,20230816_140556.jpg
+data\raw\Early_blight\ec6b34ed-69c6-466a-81a9-4ca18eb25275___RS_Early.B 7038.JPG,Early_blight,ec6b34ed-69c6-466a-81a9-4ca18eb25275___RS_Early.B 7038.JPG
+data\raw\Late_blight\dcfa79c3-b0d0-4dd0-9796-5d529948b88e___RS_LB 5437.JPG,Late_blight,dcfa79c3-b0d0-4dd0-9796-5d529948b88e___RS_LB 5437.JPG
+data\raw\Fungi\IMG_0708.JPG,Fungi,IMG_0708.JPG
+data\raw\Phytopthora\IMG_9430.JPG,Phytopthora,IMG_9430.JPG
+data\raw\Early_blight\c82e587c-a0f2-451e-9057-e3719a3d9562___RS_Early.B 6824.JPG,Early_blight,c82e587c-a0f2-451e-9057-e3719a3d9562___RS_Early.B 6824.JPG
+data\raw\Healthy\b89db9d3-a413-4781-bc88-5f6c2085ab5f___RS_HL 1909.JPG,Healthy,b89db9d3-a413-4781-bc88-5f6c2085ab5f___RS_HL 1909.JPG
+data\raw\Late_blight\d36e9212-7594-4e4d-9062-0a98bc689729___RS_LB 5055.JPG,Late_blight,d36e9212-7594-4e4d-9062-0a98bc689729___RS_LB 5055.JPG
+data\raw\Virus\20230815_145815.jpg,Virus,20230815_145815.jpg
+data\raw\Late_blight\cd04dd6c-fe7b-4587-ae2e-69228969d9d6___RS_LB 4824.JPG,Late_blight,cd04dd6c-fe7b-4587-ae2e-69228969d9d6___RS_LB 4824.JPG
+data\raw\Late_blight\b9cde1e2-71f8-46a2-9fa4-0bfc7d16815f___RS_LB 2610.JPG,Late_blight,b9cde1e2-71f8-46a2-9fa4-0bfc7d16815f___RS_LB 2610.JPG
+data\raw\Healthy\a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL 1738.JPG,Healthy,a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL 1738.JPG
+data\raw\Phytopthora\IMG_9565.JPG,Phytopthora,IMG_9565.JPG
+data\raw\Fungi\1692335403497.jpg,Fungi,1692335403497.jpg
+data\raw\Early_blight\9badd590-45ed-4636-9590-b12342ea8a84___RS_Early.B 6944.JPG,Early_blight,9badd590-45ed-4636-9590-b12342ea8a84___RS_Early.B 6944.JPG
+data\raw\Phytopthora\20230712_155047.jpg,Phytopthora,20230712_155047.jpg
+data\raw\Late_blight\b167bd40-798f-4e70-a735-f191350dd057___RS_LB 4017.JPG,Late_blight,b167bd40-798f-4e70-a735-f191350dd057___RS_LB 4017.JPG
+data\raw\Late_blight\351a1e47-c9b5-4b38-a5c1-b3d390bfe506___RS_LB 4429.JPG,Late_blight,351a1e47-c9b5-4b38-a5c1-b3d390bfe506___RS_LB 4429.JPG
+data\raw\Pest\1692336758616.jpg,Pest,1692336758616.jpg
+data\raw\Virus\20230816_113928.jpg,Virus,20230816_113928.jpg
+data\raw\Late_blight\629303c0-a89e-4f67-9ac8-aa769cf3a163___RS_LB 3945.JPG,Late_blight,629303c0-a89e-4f67-9ac8-aa769cf3a163___RS_LB 3945.JPG
+data\raw\Early_blight\f56f07b9-9f3a-4c80-a4f8-daf49f479db2___RS_Early.B 8741.JPG,Early_blight,f56f07b9-9f3a-4c80-a4f8-daf49f479db2___RS_Early.B 8741.JPG
+data\raw\Fungi\IMG_0282.JPG,Fungi,IMG_0282.JPG
+data\raw\Fungi\IMG_0148.JPG,Fungi,IMG_0148.JPG
+data\raw\Healthy\e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG,Healthy,e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG
+data\raw\Late_blight\910139a3-cd42-4adc-a24b-3602fd4de7d3___RS_LB 4415.JPG,Late_blight,910139a3-cd42-4adc-a24b-3602fd4de7d3___RS_LB 4415.JPG
+data\raw\Late_blight\f7936082-7315-477d-9710-529a7024b32d___RS_LB 2546.JPG,Late_blight,f7936082-7315-477d-9710-529a7024b32d___RS_LB 2546.JPG
+data\raw\Early_blight\08392b44-ecc6-4f38-8566-361b552cfe21___RS_Early.B 7393.JPG,Early_blight,08392b44-ecc6-4f38-8566-361b552cfe21___RS_Early.B 7393.JPG
+data\raw\Bacteria\IMG_1069.JPG,Bacteria,IMG_1069.JPG
+data\raw\Pest\20230802_110220113.jpg,Pest,20230802_110220113.jpg
+data\raw\Fungi\IMG_20230816_122536.jpg,Fungi,IMG_20230816_122536.jpg
+data\raw\Bacteria\20230816_140335.jpg,Bacteria,20230816_140335.jpg
+data\raw\Late_blight\5e8203e5-b699-4d5a-acb5-08a5f06ee984___RS_LB 5291.JPG,Late_blight,5e8203e5-b699-4d5a-acb5-08a5f06ee984___RS_LB 5291.JPG
+data\raw\Late_blight\c98f32e2-c52c-4a35-bc34-c32af5a18b07___RS_LB 2807.JPG,Late_blight,c98f32e2-c52c-4a35-bc34-c32af5a18b07___RS_LB 2807.JPG
+data\raw\Early_blight\ba96aab6-adb5-4021-b6ad-3305f50aec12___RS_Early.B 7317.JPG,Early_blight,ba96aab6-adb5-4021-b6ad-3305f50aec12___RS_Early.B 7317.JPG
+data\raw\Virus\20230922_155900.jpg,Virus,20230922_155900.jpg
+data\raw\Pest\1692336758584.jpg,Pest,1692336758584.jpg
+data\raw\Early_blight\f164ce92-d109-47ca-9f75-380a7f16155a___RS_Early.B 7104.JPG,Early_blight,f164ce92-d109-47ca-9f75-380a7f16155a___RS_Early.B 7104.JPG
+data\raw\Early_blight\8493b49f-1b73-4d5c-b6f9-ae9a41091643___RS_Early.B 6720.JPG,Early_blight,8493b49f-1b73-4d5c-b6f9-ae9a41091643___RS_Early.B 6720.JPG
+data\raw\Early_blight\ccec0636-2984-4164-aad7-34b1b84ec42b___RS_Early.B 7766.JPG,Early_blight,ccec0636-2984-4164-aad7-34b1b84ec42b___RS_Early.B 7766.JPG
+data\raw\Early_blight\aa7e5986-6fa1-4b25-9861-cbae56886280___RS_Early.B 8545.JPG,Early_blight,aa7e5986-6fa1-4b25-9861-cbae56886280___RS_Early.B 8545.JPG
+data\raw\Phytopthora\IMG_20230816_075617.jpg,Phytopthora,IMG_20230816_075617.jpg
+data\raw\Late_blight\aaf6fed2-0c7d-47b5-99df-bb6950092fe5___RS_LB 2723.JPG,Late_blight,aaf6fed2-0c7d-47b5-99df-bb6950092fe5___RS_LB 2723.JPG
+data\raw\Phytopthora\IMG_0836.JPG,Phytopthora,IMG_0836.JPG
+data\raw\Early_blight\66c5930d-2169-4ec1-9919-28088d5447f7___RS_Early.B 8822.JPG,Early_blight,66c5930d-2169-4ec1-9919-28088d5447f7___RS_Early.B 8822.JPG
+data\raw\Virus\IMG_20230816_115306~2.jpg,Virus,IMG_20230816_115306~2.jpg
+data\raw\Early_blight\6a183fd9-9409-47ea-a634-dafa4ae329a8___RS_Early.B 8890.JPG,Early_blight,6a183fd9-9409-47ea-a634-dafa4ae329a8___RS_Early.B 8890.JPG
+data\raw\Early_blight\58cb5c58-3161-4476-9361-3ee2673cc82b___RS_Early.B 7368.JPG,Early_blight,58cb5c58-3161-4476-9361-3ee2673cc82b___RS_Early.B 7368.JPG
+data\raw\Phytopthora\IMG_9519.JPG,Phytopthora,IMG_9519.JPG
+data\raw\Late_blight\b469e38c-ef99-4ed1-b294-1e65727138fb___RS_LB 4056.JPG,Late_blight,b469e38c-ef99-4ed1-b294-1e65727138fb___RS_LB 4056.JPG
+data\raw\Late_blight\84559c6d-0589-4d8d-8fc3-a818b067f85c___RS_LB 4608.JPG,Late_blight,84559c6d-0589-4d8d-8fc3-a818b067f85c___RS_LB 4608.JPG
+data\raw\Virus\IMG_8194.JPG,Virus,IMG_8194.JPG
+data\raw\Bacteria\20230816_142405.jpg,Bacteria,20230816_142405.jpg
+data\raw\Late_blight\d5a52702-2160-4f20-a1d8-49db59f83f9a___RS_LB 3213.JPG,Late_blight,d5a52702-2160-4f20-a1d8-49db59f83f9a___RS_LB 3213.JPG
+data\raw\Pest\1692332762374.jpg,Pest,1692332762374.jpg
+data\raw\Healthy\20230922_154158.jpg,Healthy,20230922_154158.jpg
+data\raw\Early_blight\c5c57ff6-cff1-4be6-a2fd-324efc139881___RS_Early.B 7450.JPG,Early_blight,c5c57ff6-cff1-4be6-a2fd-324efc139881___RS_Early.B 7450.JPG
+data\raw\Late_blight\29d49eb8-84d0-402d-9f00-c1149b8b3e16___RS_LB 3031.JPG,Late_blight,29d49eb8-84d0-402d-9f00-c1149b8b3e16___RS_LB 3031.JPG
+data\raw\Fungi\20230802_112024.jpg,Fungi,20230802_112024.jpg
+data\raw\Late_blight\acd7a42b-15eb-40e4-823c-49eff6b4e95e___RS_LB 4636.JPG,Late_blight,acd7a42b-15eb-40e4-823c-49eff6b4e95e___RS_LB 4636.JPG
+data\raw\Early_blight\7d056cd3-76d1-49f5-8491-a25e4fc4f852___RS_Early.B 8414.JPG,Early_blight,7d056cd3-76d1-49f5-8491-a25e4fc4f852___RS_Early.B 8414.JPG
+data\raw\Early_blight\34b0f33c-be8b-4338-9334-5418a5f84f28___RS_Early.B 7532.JPG,Early_blight,34b0f33c-be8b-4338-9334-5418a5f84f28___RS_Early.B 7532.JPG
+data\raw\Early_blight\ef825fcb-d776-4dfd-a6ed-3bd49912806e___RS_Early.B 7985.JPG,Early_blight,ef825fcb-d776-4dfd-a6ed-3bd49912806e___RS_Early.B 7985.JPG
+data\raw\Phytopthora\IMG_4687.JPG,Phytopthora,IMG_4687.JPG
+data\raw\Late_blight\31c96e0d-0a6a-42b4-bd7a-0faf2c8e462d___RS_LB 5298.JPG,Late_blight,31c96e0d-0a6a-42b4-bd7a-0faf2c8e462d___RS_LB 5298.JPG
+data\raw\Early_blight\9ce9c6dc-b20c-47f8-91e0-31886945c4bb___RS_Early.B 8094.JPG,Early_blight,9ce9c6dc-b20c-47f8-91e0-31886945c4bb___RS_Early.B 8094.JPG
+data\raw\Pest\IMG_8116.JPG,Pest,IMG_8116.JPG
+data\raw\Late_blight\d2ff230f-99a5-4dc5-968c-246d772788af___RS_LB 3279.JPG,Late_blight,d2ff230f-99a5-4dc5-968c-246d772788af___RS_LB 3279.JPG
+data\raw\Virus\IMG_8211.JPG,Virus,IMG_8211.JPG
+data\raw\Early_blight\3bf3bb26-3cbd-46f2-a9ba-c86700edafcb___RS_Early.B 7599.JPG,Early_blight,3bf3bb26-3cbd-46f2-a9ba-c86700edafcb___RS_Early.B 7599.JPG
+data\raw\Virus\20230802_125836.jpg,Virus,20230802_125836.jpg
+data\raw\Virus\20230816_122902.jpg,Virus,20230816_122902.jpg
+data\raw\Early_blight\5abfa537-636f-41df-a833-311a3018aac9___RS_Early.B 8176.JPG,Early_blight,5abfa537-636f-41df-a833-311a3018aac9___RS_Early.B 8176.JPG
+data\raw\Phytopthora\20230802_125709.jpg,Phytopthora,20230802_125709.jpg
+data\raw\Healthy\1dcfeaa9-006d-470c-b3e5-d67609d07d4e___RS_HL 1808.JPG,Healthy,1dcfeaa9-006d-470c-b3e5-d67609d07d4e___RS_HL 1808.JPG
+data\raw\Pest\20230712_122203.jpg,Pest,20230712_122203.jpg
+data\raw\Pest\20230712_154041.jpg,Pest,20230712_154041.jpg
+data\raw\Fungi\20230802_110822.jpg,Fungi,20230802_110822.jpg
+data\raw\Early_blight\520475a1-5acf-433f-a306-cff6ec1a99ef___RS_Early.B 9159.JPG,Early_blight,520475a1-5acf-433f-a306-cff6ec1a99ef___RS_Early.B 9159.JPG
+data\raw\Fungi\IMG_20230816_123538~2.jpg,Fungi,IMG_20230816_123538~2.jpg
+data\raw\Fungi\1692334247745.jpg,Fungi,1692334247745.jpg
+data\raw\Pest\20230712_124513.jpg,Pest,20230712_124513.jpg
+data\raw\Early_blight\b3d44557-f696-4fc9-b144-dec4f4ba9452___RS_Early.B 9110.JPG,Early_blight,b3d44557-f696-4fc9-b144-dec4f4ba9452___RS_Early.B 9110.JPG
+data\raw\Phytopthora\20230712_154940.jpg,Phytopthora,20230712_154940.jpg
+data\raw\Pest\20230922_163831.jpg,Pest,20230922_163831.jpg
+data\raw\Bacteria\IMG_0366.JPG,Bacteria,IMG_0366.JPG
+data\raw\Pest\IMG_0216 (1).JPG,Pest,IMG_0216 (1).JPG
+data\raw\Virus\IMG_0476.JPG,Virus,IMG_0476.JPG
+data\raw\Early_blight\c9bff7de-c589-4ed2-92fe-cd9ca2a1df16___RS_Early.B 7846.JPG,Early_blight,c9bff7de-c589-4ed2-92fe-cd9ca2a1df16___RS_Early.B 7846.JPG
+data\raw\Fungi\IMG_9395.JPG,Fungi,IMG_9395.JPG
+data\raw\Fungi\1692338650713.jpg,Fungi,1692338650713.jpg
+data\raw\Fungi\IMG_0750.JPG,Fungi,IMG_0750.JPG
+data\raw\Fungi\IMG_0262 - Copy.JPG,Fungi,IMG_0262 - Copy.JPG
+data\raw\Bacteria\20230816_134322.jpg,Bacteria,20230816_134322.jpg
+data\raw\Early_blight\b09e0cba-0564-4dde-a90d-3c0d90d6336e___RS_Early.B 7776.JPG,Early_blight,b09e0cba-0564-4dde-a90d-3c0d90d6336e___RS_Early.B 7776.JPG
+data\raw\Early_blight\e6d7262c-803d-4346-a36d-4f384196e21c___RS_Early.B 6893.JPG,Early_blight,e6d7262c-803d-4346-a36d-4f384196e21c___RS_Early.B 6893.JPG
+data\raw\Pest\IMG_4813.JPG,Pest,IMG_4813.JPG
+data\raw\Early_blight\94eb2aa6-7f9e-4a5a-b519-2106984e9a7d___RS_Early.B 8770.JPG,Early_blight,94eb2aa6-7f9e-4a5a-b519-2106984e9a7d___RS_Early.B 8770.JPG
+data\raw\Virus\IMG_0439.JPG,Virus,IMG_0439.JPG
+data\raw\Phytopthora\IMG_0404.JPG,Phytopthora,IMG_0404.JPG
+data\raw\Healthy\20230712_121645 (1).jpg,Healthy,20230712_121645 (1).jpg
+data\raw\Late_blight\53e33b6d-9fc5-441b-b638-3bf067f92a99___RS_LB 2753.JPG,Late_blight,53e33b6d-9fc5-441b-b638-3bf067f92a99___RS_LB 2753.JPG
+data\raw\Early_blight\8d015dcf-e4da-41b7-9d81-8d160000accf___RS_Early.B 7264.JPG,Early_blight,8d015dcf-e4da-41b7-9d81-8d160000accf___RS_Early.B 7264.JPG
+data\raw\Phytopthora\20230802_124755.jpg,Phytopthora,20230802_124755.jpg
+data\raw\Pest\1692335403953.jpg,Pest,1692335403953.jpg
+data\raw\Early_blight\c5464947-d6f8-4d5e-9cad-009db19adf67___RS_Early.B 7181.JPG,Early_blight,c5464947-d6f8-4d5e-9cad-009db19adf67___RS_Early.B 7181.JPG
+data\raw\Pest\20230712_154516.jpg,Pest,20230712_154516.jpg
+data\raw\Early_blight\54260e42-8e3f-44c2-b252-c784391ce639___RS_Early.B 7508.JPG,Early_blight,54260e42-8e3f-44c2-b252-c784391ce639___RS_Early.B 7508.JPG
+data\raw\Early_blight\d03ee4f8-b77d-4f0f-8d13-d0a019a37a66___RS_Early.B 6970.JPG,Early_blight,d03ee4f8-b77d-4f0f-8d13-d0a019a37a66___RS_Early.B 6970.JPG
+data\raw\Late_blight\e25e57fb-41d5-4f46-92f7-ce841bd97374___RS_LB 5448.JPG,Late_blight,e25e57fb-41d5-4f46-92f7-ce841bd97374___RS_LB 5448.JPG
+data\raw\Late_blight\1ed357f9-f036-4bf2-b180-1588976eb116___RS_LB 3005.JPG,Late_blight,1ed357f9-f036-4bf2-b180-1588976eb116___RS_LB 3005.JPG
+data\raw\Fungi\IMG_4788.JPG,Fungi,IMG_4788.JPG
+data\raw\Late_blight\cdd030ec-609e-4f61-9335-6cf89a6f35d2___RS_LB 2776.JPG,Late_blight,cdd030ec-609e-4f61-9335-6cf89a6f35d2___RS_LB 2776.JPG
+data\raw\Virus\IMG_1106.JPG,Virus,IMG_1106.JPG
+data\raw\Healthy\d325e580-5faa-4aea-927d-2700f52cc343___RS_HL 1872.JPG,Healthy,d325e580-5faa-4aea-927d-2700f52cc343___RS_HL 1872.JPG
+data\raw\Fungi\IMG_0669.JPG,Fungi,IMG_0669.JPG
+data\raw\Bacteria\20230816_135156.jpg,Bacteria,20230816_135156.jpg
+data\raw\Early_blight\2a9d3616-0bf1-4d98-b649-0a46d36dab7c___RS_Early.B 6703.JPG,Early_blight,2a9d3616-0bf1-4d98-b649-0a46d36dab7c___RS_Early.B 6703.JPG
+data\raw\Fungi\IMG_0745.JPG,Fungi,IMG_0745.JPG
+data\raw\Virus\IMG_0789.JPG,Virus,IMG_0789.JPG
+data\raw\Healthy\9b5be0c5-7d7e-493d-88ba-c721c85f73ca___RS_HL 5405.JPG,Healthy,9b5be0c5-7d7e-493d-88ba-c721c85f73ca___RS_HL 5405.JPG
+data\raw\Virus\IMG_0376.JPG,Virus,IMG_0376.JPG
+data\raw\Phytopthora\IMG_9566 (1).JPG,Phytopthora,IMG_9566 (1).JPG
+data\raw\Late_blight\489107b2-13f2-401b-b931-39ca7fd4be2b___RS_LB 2665.JPG,Late_blight,489107b2-13f2-401b-b931-39ca7fd4be2b___RS_LB 2665.JPG
+data\raw\Early_blight\349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B 7553.JPG,Early_blight,349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B 7553.JPG
+data\raw\Fungi\IMG_0150.JPG,Fungi,IMG_0150.JPG
+data\raw\Fungi\IMG_9459.JPG,Fungi,IMG_9459.JPG
+data\raw\Early_blight\a29ed5b2-153c-4f0e-a633-f698c9ff51d2___RS_Early.B 8840.JPG,Early_blight,a29ed5b2-153c-4f0e-a633-f698c9ff51d2___RS_Early.B 8840.JPG
+data\raw\Late_blight\6f5a4763-2865-4bdf-8c7f-49ab7a53126a___RS_LB 5237.JPG,Late_blight,6f5a4763-2865-4bdf-8c7f-49ab7a53126a___RS_LB 5237.JPG
+data\raw\Late_blight\52c6891d-e627-4ebf-a080-3e8051531f5a___RS_LB 4092.JPG,Late_blight,52c6891d-e627-4ebf-a080-3e8051531f5a___RS_LB 4092.JPG
+data\raw\Fungi\IMG_9468.JPG,Fungi,IMG_9468.JPG
+data\raw\Virus\IMG_1230.JPG,Virus,IMG_1230.JPG
+data\raw\Virus\IMG_0339.JPG,Virus,IMG_0339.JPG
+data\raw\Late_blight\ae5b08fa-25b7-4006-8b1b-2415356b3847___RS_LB 5453.JPG,Late_blight,ae5b08fa-25b7-4006-8b1b-2415356b3847___RS_LB 5453.JPG
+data\raw\Fungi\IMG_20230816_112407.jpg,Fungi,IMG_20230816_112407.jpg
+data\raw\Fungi\IMG_4692.JPG,Fungi,IMG_4692.JPG
+data\raw\Bacteria\IMG_0922.JPG,Bacteria,IMG_0922.JPG
+data\raw\Bacteria\20230816_142101.jpg,Bacteria,20230816_142101.jpg
+data\raw\Early_blight\49ecf1fe-0000-49e8-a042-fb6c9bac38c9___RS_Early.B 8940.JPG,Early_blight,49ecf1fe-0000-49e8-a042-fb6c9bac38c9___RS_Early.B 8940.JPG
+data\raw\Virus\IMG_0274.JPG,Virus,IMG_0274.JPG
+data\raw\Early_blight\0d2325ff-4e3e-44bf-9614-e5ad6c23fc16___RS_Early.B 6797.JPG,Early_blight,0d2325ff-4e3e-44bf-9614-e5ad6c23fc16___RS_Early.B 6797.JPG
+data\raw\Phytopthora\20230802_124025.jpg,Phytopthora,20230802_124025.jpg
+data\raw\Early_blight\d2dcbc63-47c6-4a67-914b-cb1e117b58b0___RS_Early.B 7159.JPG,Early_blight,d2dcbc63-47c6-4a67-914b-cb1e117b58b0___RS_Early.B 7159.JPG
+data\raw\Early_blight\53257270-67b3-4408-aaec-abbd9f5f19f0___RS_Early.B 7212.JPG,Early_blight,53257270-67b3-4408-aaec-abbd9f5f19f0___RS_Early.B 7212.JPG
+data\raw\Bacteria\IMG_1008.JPG,Bacteria,IMG_1008.JPG
+data\raw\Late_blight\f37f6160-4f5b-447f-b497-cc6eb7662e3b___RS_LB 4951.JPG,Late_blight,f37f6160-4f5b-447f-b497-cc6eb7662e3b___RS_LB 4951.JPG
+data\raw\Late_blight\35621849-08fd-442a-a94e-139b2657106e___RS_LB 4055.JPG,Late_blight,35621849-08fd-442a-a94e-139b2657106e___RS_LB 4055.JPG
+data\raw\Early_blight\ea87f5c8-69f9-44e0-997b-bb896350765e___RS_Early.B 7798.JPG,Early_blight,ea87f5c8-69f9-44e0-997b-bb896350765e___RS_Early.B 7798.JPG
+data\raw\Early_blight\37471260-d7b4-4ccd-901e-974332ef2eb9___RS_Early.B 7967.JPG,Early_blight,37471260-d7b4-4ccd-901e-974332ef2eb9___RS_Early.B 7967.JPG
+data\raw\Bacteria\20230815_122505.jpg,Bacteria,20230815_122505.jpg
+data\raw\Phytopthora\20230802_125027862.jpg,Phytopthora,20230802_125027862.jpg
+data\raw\Early_blight\a3ed964c-36f1-403c-8146-b2a3b79a352d___RS_Early.B 8310.JPG,Early_blight,a3ed964c-36f1-403c-8146-b2a3b79a352d___RS_Early.B 8310.JPG
+data\raw\Virus\IMG_0812.JPG,Virus,IMG_0812.JPG
+data\raw\Pest\IMG_8136.JPG,Pest,IMG_8136.JPG
+data\raw\Pest\20230712_145948.jpg,Pest,20230712_145948.jpg
+data\raw\Virus\IMG_8208.JPG,Virus,IMG_8208.JPG
+data\raw\Virus\IMG_20230816_075736.jpg,Virus,IMG_20230816_075736.jpg
+data\raw\Fungi\IMG_9466.JPG,Fungi,IMG_9466.JPG
+data\raw\Healthy\IMG_20230816_082347 (1).jpg,Healthy,IMG_20230816_082347 (1).jpg
+data\raw\Virus\20230816_113008.jpg,Virus,20230816_113008.jpg
+data\raw\Virus\IMG_0634.JPG,Virus,IMG_0634.JPG
+data\raw\Late_blight\2c33381e-78d8-47fc-8cea-1459164f46d6___RS_LB 4115.JPG,Late_blight,2c33381e-78d8-47fc-8cea-1459164f46d6___RS_LB 4115.JPG
+data\raw\Pest\20230712_122134.jpg,Pest,20230712_122134.jpg
+data\raw\Early_blight\495e73a1-0f61-43a6-b539-d7f74e3fbf71___RS_Early.B 8245.JPG,Early_blight,495e73a1-0f61-43a6-b539-d7f74e3fbf71___RS_Early.B 8245.JPG
+data\raw\Late_blight\17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG,Late_blight,17515ff9-075f-45a2-b8e6-1b8ba25c293d___RS_LB 4980.JPG
+data\raw\Bacteria\IMG_1024.JPG,Bacteria,IMG_1024.JPG
+data\raw\Fungi\IMG_4734.JPG,Fungi,IMG_4734.JPG
+data\raw\Fungi\1692335403690.jpg,Fungi,1692335403690.jpg
+data\raw\Early_blight\7a04081f-dd48-4a84-b7c1-611a50ae7886___RS_Early.B 8019.JPG,Early_blight,7a04081f-dd48-4a84-b7c1-611a50ae7886___RS_Early.B 8019.JPG
+data\raw\Phytopthora\20230802_123456.jpg,Phytopthora,20230802_123456.jpg
+data\raw\Late_blight\974344ba-438f-4190-b71c-875924190fdc___RS_LB 3866.JPG,Late_blight,974344ba-438f-4190-b71c-875924190fdc___RS_LB 3866.JPG
+data\raw\Phytopthora\20230712_144044.jpg,Phytopthora,20230712_144044.jpg
+data\raw\Fungi\IMG_20230816_121459~2.jpg,Fungi,IMG_20230816_121459~2.jpg
+data\raw\Early_blight\abfaeb8b-fe1e-48e6-ab8f-c9a72680420d___RS_Early.B 7427.JPG,Early_blight,abfaeb8b-fe1e-48e6-ab8f-c9a72680420d___RS_Early.B 7427.JPG
+data\raw\Late_blight\908546cd-34b8-4502-ab09-0c5bb7c1d87b___RS_LB 4912.JPG,Late_blight,908546cd-34b8-4502-ab09-0c5bb7c1d87b___RS_LB 4912.JPG
+data\raw\Late_blight\57a137da-7424-4a9d-9e28-bce63decbdcf___RS_LB 2761.JPG,Late_blight,57a137da-7424-4a9d-9e28-bce63decbdcf___RS_LB 2761.JPG
+data\raw\Healthy\ef7005dc-1d44-412e-b858-145a2d7a6fa9___RS_HL 1951.JPG,Healthy,ef7005dc-1d44-412e-b858-145a2d7a6fa9___RS_HL 1951.JPG
+data\raw\Pest\IMG_0346 - Copy.JPG,Pest,IMG_0346 - Copy.JPG
+data\raw\Bacteria\20230815_120101.jpg,Bacteria,20230815_120101.jpg
+data\raw\Early_blight\d286d101-227f-48ba-b906-586879eb6a00___RS_Early.B 7095.JPG,Early_blight,d286d101-227f-48ba-b906-586879eb6a00___RS_Early.B 7095.JPG
+data\raw\Bacteria\IMG_1036.JPG,Bacteria,IMG_1036.JPG
+data\raw\Fungi\20230802_110928786.jpg,Fungi,20230802_110928786.jpg
+data\raw\Early_blight\ab808dff-e0fc-42d0-ad9a-c4cb7f69e59b___RS_Early.B 9210.JPG,Early_blight,ab808dff-e0fc-42d0-ad9a-c4cb7f69e59b___RS_Early.B 9210.JPG
+data\raw\Fungi\IMG_0954.JPG,Fungi,IMG_0954.JPG
+data\raw\Fungi\1692334247321.jpg,Fungi,1692334247321.jpg
+data\raw\Late_blight\551f74c9-3212-4a08-8f5e-a101b4195e1e___RS_LB 2593.JPG,Late_blight,551f74c9-3212-4a08-8f5e-a101b4195e1e___RS_LB 2593.JPG
+data\raw\Late_blight\777a492f-3dfb-4bcf-8b33-a9b09fb21e6e___RS_LB 4866.JPG,Late_blight,777a492f-3dfb-4bcf-8b33-a9b09fb21e6e___RS_LB 4866.JPG
+data\raw\Pest\20230802_115546172.jpg,Pest,20230802_115546172.jpg
+data\raw\Late_blight\d0262161-b887-4357-b707-cde01cf5726d___RS_LB 3044.JPG,Late_blight,d0262161-b887-4357-b707-cde01cf5726d___RS_LB 3044.JPG
+data\raw\Virus\20230802_115629.jpg,Virus,20230802_115629.jpg
+data\raw\Fungi\IMG_20230815_121604.jpg,Fungi,IMG_20230815_121604.jpg
+data\raw\Virus\20230802_124122.jpg,Virus,20230802_124122.jpg
+data\raw\Bacteria\20230816_142310.jpg,Bacteria,20230816_142310.jpg
+data\raw\Pest\20230802_115901674.jpg,Pest,20230802_115901674.jpg
+data\raw\Bacteria\20230816_140812.jpg,Bacteria,20230816_140812.jpg
+data\raw\Early_blight\da3115aa-a34b-42b2-97a9-9a1922770c8d___RS_Early.B 6708.JPG,Early_blight,da3115aa-a34b-42b2-97a9-9a1922770c8d___RS_Early.B 6708.JPG
+data\raw\Early_blight\9b5f25b9-9f30-478a-9710-fc79dafaf62e___RS_Early.B 6739.JPG,Early_blight,9b5f25b9-9f30-478a-9710-fc79dafaf62e___RS_Early.B 6739.JPG
+data\raw\Pest\IMG_8326.JPG,Pest,IMG_8326.JPG
+data\raw\Fungi\IMG_0147.JPG,Fungi,IMG_0147.JPG
+data\raw\Late_blight\17a07992-ebb9-4368-8cb7-4af40d8ded08___RS_LB 3064.JPG,Late_blight,17a07992-ebb9-4368-8cb7-4af40d8ded08___RS_LB 3064.JPG
+data\raw\Fungi\IMG_20230815_120840~2.jpg,Fungi,IMG_20230815_120840~2.jpg
+data\raw\Pest\20230802_125927.jpg,Pest,20230802_125927.jpg
+data\raw\Early_blight\06d9fcc9-4eea-4736-8392-5e483e2e948d___RS_Early.B 7411.JPG,Early_blight,06d9fcc9-4eea-4736-8392-5e483e2e948d___RS_Early.B 7411.JPG
+data\raw\Virus\IMG_20230815_115355~2.jpg,Virus,IMG_20230815_115355~2.jpg
+data\raw\Healthy\415ac4a2-8f16-4052-880e-1e1f208965f0___RS_HL 1884.JPG,Healthy,415ac4a2-8f16-4052-880e-1e1f208965f0___RS_HL 1884.JPG
+data\raw\Late_blight\465669d7-b75c-4aab-8ccc-af3566baf2e3___RS_LB 4985.JPG,Late_blight,465669d7-b75c-4aab-8ccc-af3566baf2e3___RS_LB 4985.JPG
+data\raw\Healthy\20230802_124215.jpg,Healthy,20230802_124215.jpg
+data\raw\Pest\IMG_0811.JPG,Pest,IMG_0811.JPG
+data\raw\Bacteria\20230816_135212.jpg,Bacteria,20230816_135212.jpg
+data\raw\Early_blight\e912f95d-d159-47bc-b1ed-f0f08c3c391d___RS_Early.B 8366.JPG,Early_blight,e912f95d-d159-47bc-b1ed-f0f08c3c391d___RS_Early.B 8366.JPG
+data\raw\Virus\1692335404669.jpg,Virus,1692335404669.jpg
+data\raw\Early_blight\4849de96-2e26-4c8d-8944-bd9e8edee5d8___RS_Early.B 9196.JPG,Early_blight,4849de96-2e26-4c8d-8944-bd9e8edee5d8___RS_Early.B 9196.JPG
+data\raw\Late_blight\ec958877-f479-4c8c-a947-3686039f8921___RS_LB 2587.JPG,Late_blight,ec958877-f479-4c8c-a947-3686039f8921___RS_LB 2587.JPG
+data\raw\Virus\20230815_153230.jpg,Virus,20230815_153230.jpg
+data\raw\Nematode\IMG_0303.JPG,Nematode,IMG_0303.JPG
+data\raw\Late_blight\17ed933e-629f-4db2-b4f3-865f69d43589___RS_LB 2599.JPG,Late_blight,17ed933e-629f-4db2-b4f3-865f69d43589___RS_LB 2599.JPG
+data\raw\Fungi\1692334247401.jpg,Fungi,1692334247401.jpg
+data\raw\Healthy\IMG_4802.JPG,Healthy,IMG_4802.JPG
+data\raw\Early_blight\46dc77f0-be88-4887-b1f7-82adff9aaa39___RS_Early.B 7750.JPG,Early_blight,46dc77f0-be88-4887-b1f7-82adff9aaa39___RS_Early.B 7750.JPG
+data\raw\Early_blight\a41c6816-0755-4e55-b589-42b665a97a02___RS_Early.B 7064.JPG,Early_blight,a41c6816-0755-4e55-b589-42b665a97a02___RS_Early.B 7064.JPG
+data\raw\Early_blight\17520079-9d7b-481a-bc9e-676c5404d160___RS_Early.B 6774.JPG,Early_blight,17520079-9d7b-481a-bc9e-676c5404d160___RS_Early.B 6774.JPG
+data\raw\Late_blight\b11189c8-ab6f-4d69-9ffa-e52749d2a3a5___RS_LB 4537.JPG,Late_blight,b11189c8-ab6f-4d69-9ffa-e52749d2a3a5___RS_LB 4537.JPG
+data\raw\Pest\IMG_20230816_140138.jpg,Pest,IMG_20230816_140138.jpg
+data\raw\Healthy\20230815_121201.jpg,Healthy,20230815_121201.jpg
+data\raw\Late_blight\6033f0b2-48e7-411c-a39b-86297f412c19___RS_LB 4020.JPG,Late_blight,6033f0b2-48e7-411c-a39b-86297f412c19___RS_LB 4020.JPG
+data\raw\Fungi\IMG_4676.JPG,Fungi,IMG_4676.JPG
+data\raw\Fungi\IMG_20230815_153702.jpg,Fungi,IMG_20230815_153702.jpg
+data\raw\Late_blight\4ac84ca7-f60a-406e-938d-40f4ba5b75ce___RS_LB 2731.JPG,Late_blight,4ac84ca7-f60a-406e-938d-40f4ba5b75ce___RS_LB 2731.JPG
+data\raw\Pest\20230802_115839605.jpg,Pest,20230802_115839605.jpg
+data\raw\Bacteria\IMG_0833.JPG,Bacteria,IMG_0833.JPG
+data\raw\Healthy\20230712_130758.jpg,Healthy,20230712_130758.jpg
+data\raw\Bacteria\IMG_1164.JPG,Bacteria,IMG_1164.JPG
+data\raw\Fungi\IMG_4703.JPG,Fungi,IMG_4703.JPG
+data\raw\Virus\20230712_132641.jpg,Virus,20230712_132641.jpg
+data\raw\Bacteria\IMG_0349.JPG,Bacteria,IMG_0349.JPG
+data\raw\Early_blight\8f9aef15-0a7e-4b1f-883f-30b8cbc72fe4___RS_Early.B 7898.JPG,Early_blight,8f9aef15-0a7e-4b1f-883f-30b8cbc72fe4___RS_Early.B 7898.JPG
+data\raw\Virus\IMG_8232.JPG,Virus,IMG_8232.JPG
+data\raw\Pest\20230802_120034066.jpg,Pest,20230802_120034066.jpg
+data\raw\Pest\IMG_4764.JPG,Pest,IMG_4764.JPG
+data\raw\Late_blight\4fbe268d-dabb-4a25-8283-7968fd91fcdb___RS_LB 4819.JPG,Late_blight,4fbe268d-dabb-4a25-8283-7968fd91fcdb___RS_LB 4819.JPG
+data\raw\Phytopthora\IMG_0402.JPG,Phytopthora,IMG_0402.JPG
+data\raw\Bacteria\20230816_134548.jpg,Bacteria,20230816_134548.jpg
+data\raw\Early_blight\25642761-2905-48af-b8da-1064a0f6b876___RS_Early.B 6831.JPG,Early_blight,25642761-2905-48af-b8da-1064a0f6b876___RS_Early.B 6831.JPG
+data\raw\Bacteria\20230816_140031.jpg,Bacteria,20230816_140031.jpg
+data\raw\Fungi\1692334247778.jpg,Fungi,1692334247778.jpg
+data\raw\Pest\20230802_124823720.jpg,Pest,20230802_124823720.jpg
+data\raw\Bacteria\IMG_0914.JPG,Bacteria,IMG_0914.JPG
+data\raw\Healthy\b35b9f8b-daca-4d12-a5be-defe68d0acc5___RS_HL 1903.JPG,Healthy,b35b9f8b-daca-4d12-a5be-defe68d0acc5___RS_HL 1903.JPG
+data\raw\Fungi\IMG_9399.JPG,Fungi,IMG_9399.JPG
+data\raw\Early_blight\8f3f9eed-1a3d-4f0f-adcc-0fe3a832d95f___RS_Early.B 8518.JPG,Early_blight,8f3f9eed-1a3d-4f0f-adcc-0fe3a832d95f___RS_Early.B 8518.JPG
+data\raw\Virus\20230815_151656.jpg,Virus,20230815_151656.jpg
+data\raw\Pest\IMG_20230816_123049.jpg,Pest,IMG_20230816_123049.jpg
+data\raw\Virus\20230816_115016.jpg,Virus,20230816_115016.jpg
+data\raw\Virus\IMG_9547.JPG,Virus,IMG_9547.JPG
+data\raw\Healthy\20230816_121602.jpg,Healthy,20230816_121602.jpg
+data\raw\Bacteria\20230816_141038.jpg,Bacteria,20230816_141038.jpg
+data\raw\Early_blight\334fd34b-f4aa-4cc2-9ac9-8b85df65b96c___RS_Early.B 6773.JPG,Early_blight,334fd34b-f4aa-4cc2-9ac9-8b85df65b96c___RS_Early.B 6773.JPG
+data\raw\Virus\IMG_0465.JPG,Virus,IMG_0465.JPG
+data\raw\Early_blight\bcf169b0-dea7-49eb-b976-4a2d1f36c574___RS_Early.B 7870.JPG,Early_blight,bcf169b0-dea7-49eb-b976-4a2d1f36c574___RS_Early.B 7870.JPG
+data\raw\Pest\1692338650566.jpg,Pest,1692338650566.jpg
+data\raw\Healthy\20230802_130212.jpg,Healthy,20230802_130212.jpg
+data\raw\Fungi\20230802_111817827.jpg,Fungi,20230802_111817827.jpg
+data\raw\Bacteria\20230816_123115.jpg,Bacteria,20230816_123115.jpg
+data\raw\Pest\20230712_123358.jpg,Pest,20230712_123358.jpg
+data\raw\Early_blight\37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG,Early_blight,37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG
+data\raw\Pest\20230922_163504.jpg,Pest,20230922_163504.jpg
+data\raw\Early_blight\c5dc57d8-9a0d-4046-9eb4-b9db2f720a47___RS_Early.B 7047.JPG,Early_blight,c5dc57d8-9a0d-4046-9eb4-b9db2f720a47___RS_Early.B 7047.JPG
+data\raw\Virus\20230815_150450.jpg,Virus,20230815_150450.jpg
+data\raw\Early_blight\9d0c69df-f5dc-4118-a654-ab40d100b9b6___RS_Early.B 8870.JPG,Early_blight,9d0c69df-f5dc-4118-a654-ab40d100b9b6___RS_Early.B 8870.JPG
+data\raw\Late_blight\108aa677-2b51-4d8b-8533-40fba50a275d___RS_LB 3046.JPG,Late_blight,108aa677-2b51-4d8b-8533-40fba50a275d___RS_LB 3046.JPG
+data\raw\Early_blight\f48fc3b4-b7e7-4ad5-a651-0bf61a5173ff___RS_Early.B 8597.JPG,Early_blight,f48fc3b4-b7e7-4ad5-a651-0bf61a5173ff___RS_Early.B 8597.JPG
+data\raw\Late_blight\304b3fa0-f0cb-41b5-b835-9bd13773150a___RS_LB 4696.JPG,Late_blight,304b3fa0-f0cb-41b5-b835-9bd13773150a___RS_LB 4696.JPG
+data\raw\Pest\20230712_133308.jpg,Pest,20230712_133308.jpg
+data\raw\Fungi\IMG_8352.JPG,Fungi,IMG_8352.JPG
+data\raw\Late_blight\ccdf64d2-81fe-429e-8041-05b5a9ce50c9___RS_LB 5052.JPG,Late_blight,ccdf64d2-81fe-429e-8041-05b5a9ce50c9___RS_LB 5052.JPG
+data\raw\Pest\IMG_0204.JPG,Pest,IMG_0204.JPG
+data\raw\Fungi\IMG_9467.JPG,Fungi,IMG_9467.JPG
+data\raw\Bacteria\IMG_1217.JPG,Bacteria,IMG_1217.JPG
+data\raw\Late_blight\5c43ce7b-f04a-4d0d-9305-47f0d83125c5___RS_LB 5033.JPG,Late_blight,5c43ce7b-f04a-4d0d-9305-47f0d83125c5___RS_LB 5033.JPG
+data\raw\Virus\IMG_0301.JPG,Virus,IMG_0301.JPG
+data\raw\Early_blight\524142aa-78fb-4fab-895c-ddb993d07479___RS_Early.B 7435.JPG,Early_blight,524142aa-78fb-4fab-895c-ddb993d07479___RS_Early.B 7435.JPG
+data\raw\Late_blight\7efcdebc-93be-4168-9965-2b2be46823d8___RS_LB 3249.JPG,Late_blight,7efcdebc-93be-4168-9965-2b2be46823d8___RS_LB 3249.JPG
+data\raw\Early_blight\fe24f700-d37f-4e51-b07c-931e8c3ded81___RS_Early.B 8792.JPG,Early_blight,fe24f700-d37f-4e51-b07c-931e8c3ded81___RS_Early.B 8792.JPG
+data\raw\Fungi\1692335403577.jpg,Fungi,1692335403577.jpg
+data\raw\Fungi\20230712_120442.jpg,Fungi,20230712_120442.jpg
+data\raw\Virus\20230816_113022.jpg,Virus,20230816_113022.jpg
+data\raw\Phytopthora\20230802_124923980.jpg,Phytopthora,20230802_124923980.jpg
+data\raw\Phytopthora\IMG_9526 (1).JPG,Phytopthora,IMG_9526 (1).JPG
+data\raw\Bacteria\20230815_113516.jpg,Bacteria,20230815_113516.jpg
+data\raw\Healthy\20230712_133031.jpg,Healthy,20230712_133031.jpg
+data\raw\Fungi\IMG_0280.JPG,Fungi,IMG_0280.JPG
+data\raw\Early_blight\e0654927-6cc0-491f-86d3-acb5ad261904___RS_Early.B 8341.JPG,Early_blight,e0654927-6cc0-491f-86d3-acb5ad261904___RS_Early.B 8341.JPG
+data\raw\Late_blight\e10ce839-9da1-4f23-9b5e-c5483f6eabbd___RS_LB 5328.JPG,Late_blight,e10ce839-9da1-4f23-9b5e-c5483f6eabbd___RS_LB 5328.JPG
+data\raw\Early_blight\2f81d148-c62f-4d3c-baf4-72b77abea41a___RS_Early.B 7493.JPG,Early_blight,2f81d148-c62f-4d3c-baf4-72b77abea41a___RS_Early.B 7493.JPG
+data\raw\Bacteria\20230815_114106.jpg,Bacteria,20230815_114106.jpg
+data\raw\Phytopthora\IMG_0363.JPG,Phytopthora,IMG_0363.JPG
+data\raw\Bacteria\IMG_1081.JPG,Bacteria,IMG_1081.JPG
+data\raw\Late_blight\792d4339-f459-4ef6-aef9-431c64c95cc1___RS_LB 3251.JPG,Late_blight,792d4339-f459-4ef6-aef9-431c64c95cc1___RS_LB 3251.JPG
+data\raw\Bacteria\IMG_1244.JPG,Bacteria,IMG_1244.JPG
+data\raw\Pest\20230712_123408.jpg,Pest,20230712_123408.jpg
+data\raw\Healthy\IMG_9419.JPG,Healthy,IMG_9419.JPG
+data\raw\Virus\IMG_0308.JPG,Virus,IMG_0308.JPG
+data\raw\Fungi\IMG_9409.JPG,Fungi,IMG_9409.JPG
+data\raw\Late_blight\7d885e39-d832-473f-bf81-c22855e481c3___RS_LB 3946.JPG,Late_blight,7d885e39-d832-473f-bf81-c22855e481c3___RS_LB 3946.JPG
+data\raw\Late_blight\42451eb3-fb45-4b9a-8dd3-c9b9aa3a29c8___RS_LB 4340.JPG,Late_blight,42451eb3-fb45-4b9a-8dd3-c9b9aa3a29c8___RS_LB 4340.JPG
+data\raw\Fungi\IMG_9441.JPG,Fungi,IMG_9441.JPG
+data\raw\Early_blight\cac99520-3403-4602-961d-3a668bb980fb___RS_Early.B 7388.JPG,Early_blight,cac99520-3403-4602-961d-3a668bb980fb___RS_Early.B 7388.JPG
+data\raw\Early_blight\906bb6f0-e61b-42f2-83a9-22593dadcedc___RS_Early.B 8564.JPG,Early_blight,906bb6f0-e61b-42f2-83a9-22593dadcedc___RS_Early.B 8564.JPG
+data\raw\Fungi\20230816_122418.jpg,Fungi,20230816_122418.jpg
+data\raw\Pest\IMG_1110.JPG,Pest,IMG_1110.JPG
+data\raw\Late_blight\4a34ce1c-9fde-4707-947a-58432a695741___RS_LB 3277.JPG,Late_blight,4a34ce1c-9fde-4707-947a-58432a695741___RS_LB 3277.JPG
+data\raw\Fungi\IMG_4682.JPG,Fungi,IMG_4682.JPG
+data\raw\Pest\IMG_9551.JPG,Pest,IMG_9551.JPG
+data\raw\Late_blight\0651be8e-a2d1-4b8a-97b8-1dc89d79fd26___RS_LB 3261.JPG,Late_blight,0651be8e-a2d1-4b8a-97b8-1dc89d79fd26___RS_LB 3261.JPG
+data\raw\Fungi\IMG_8078.JPG,Fungi,IMG_8078.JPG
+data\raw\Fungi\IMG_0263 - Copy.JPG,Fungi,IMG_0263 - Copy.JPG
+data\raw\Pest\20230802_105056702.jpg,Pest,20230802_105056702.jpg
+data\raw\Fungi\20230815_111640.jpg,Fungi,20230815_111640.jpg
+data\raw\Fungi\IMG_0253 (1).JPG,Fungi,IMG_0253 (1).JPG
+data\raw\Early_blight\c419a9f0-5fb9-4db6-a229-5c08c36896fe___RS_Early.B 8585.JPG,Early_blight,c419a9f0-5fb9-4db6-a229-5c08c36896fe___RS_Early.B 8585.JPG
+data\raw\Late_blight\5d85a25d-ed5a-459d-89fc-8bc9118518bc___RS_LB 4646.JPG,Late_blight,5d85a25d-ed5a-459d-89fc-8bc9118518bc___RS_LB 4646.JPG
+data\raw\Pest\IMG_0179.JPG,Pest,IMG_0179.JPG
+data\raw\Early_blight\f917c191-cca4-4a78-8238-a40b586f9058___RS_Early.B 7945.JPG,Early_blight,f917c191-cca4-4a78-8238-a40b586f9058___RS_Early.B 7945.JPG
+data\raw\Healthy\4ae82355-6885-40e7-9807-dabe46ed3441___RS_HL 5410.JPG,Healthy,4ae82355-6885-40e7-9807-dabe46ed3441___RS_HL 5410.JPG
+data\raw\Virus\20230816_123332.jpg,Virus,20230816_123332.jpg
+data\raw\Early_blight\d0be9a48-d0f6-4d34-9c80-3eb7631e2d8d___RS_Early.B 8143.JPG,Early_blight,d0be9a48-d0f6-4d34-9c80-3eb7631e2d8d___RS_Early.B 8143.JPG
+data\raw\Fungi\IMG_20230815_114008~2.jpg,Fungi,IMG_20230815_114008~2.jpg
+data\raw\Early_blight\9ebf9d7d-0cfe-44f5-9126-89c70d38321a___RS_Early.B 8986.JPG,Early_blight,9ebf9d7d-0cfe-44f5-9126-89c70d38321a___RS_Early.B 8986.JPG
+data\raw\Early_blight\29978e78-7d4a-4fff-a659-52e45e9b96b3___RS_Early.B 7672.JPG,Early_blight,29978e78-7d4a-4fff-a659-52e45e9b96b3___RS_Early.B 7672.JPG
+data\raw\Fungi\1692339473815.jpg,Fungi,1692339473815.jpg
+data\raw\Virus\IMG_0310.JPG,Virus,IMG_0310.JPG
+data\raw\Bacteria\IMG_0320.JPG,Bacteria,IMG_0320.JPG
+data\raw\Early_blight\6f37a2b1-e63c-4d82-aec2-9ff036473867___RS_Early.B 7585.JPG,Early_blight,6f37a2b1-e63c-4d82-aec2-9ff036473867___RS_Early.B 7585.JPG
+data\raw\Early_blight\985f3b47-d5ee-45d4-a020-f43ca80fb59e___RS_Early.B 9211.JPG,Early_blight,985f3b47-d5ee-45d4-a020-f43ca80fb59e___RS_Early.B 9211.JPG
+data\raw\Virus\20230922_155902.jpg,Virus,20230922_155902.jpg
+data\raw\Phytopthora\IMG_0369.JPG,Phytopthora,IMG_0369.JPG
+data\raw\Early_blight\b14e0de2-ab48-45b5-9d4d-e45e7c88b68f___RS_Early.B 8554.JPG,Early_blight,b14e0de2-ab48-45b5-9d4d-e45e7c88b68f___RS_Early.B 8554.JPG
+data\raw\Fungi\IMG_9452.JPG,Fungi,IMG_9452.JPG
+data\raw\Late_blight\36fc1631-634b-42d3-a865-cc858557a8a8___RS_LB 4427.JPG,Late_blight,36fc1631-634b-42d3-a865-cc858557a8a8___RS_LB 4427.JPG
+data\raw\Bacteria\IMG_1176.JPG,Bacteria,IMG_1176.JPG
+data\raw\Healthy\2dee1571-ef6b-40ef-8c46-334e89aad3f1___RS_HL 1950.JPG,Healthy,2dee1571-ef6b-40ef-8c46-334e89aad3f1___RS_HL 1950.JPG
+data\raw\Fungi\1692334247688.jpg,Fungi,1692334247688.jpg
+data\raw\Phytopthora\IMG_0374.JPG,Phytopthora,IMG_0374.JPG
+data\raw\Late_blight\73366261-64f3-4219-a43a-97cda85474a9___RS_LB 3332.JPG,Late_blight,73366261-64f3-4219-a43a-97cda85474a9___RS_LB 3332.JPG
+data\raw\Late_blight\7514a101-a131-449a-9dcd-80ba8733f124___RS_LB 4879.JPG,Late_blight,7514a101-a131-449a-9dcd-80ba8733f124___RS_LB 4879.JPG
+data\raw\Late_blight\3f624c56-6bd1-4e7e-8fcd-d6b4480abe12___RS_LB 5215.JPG,Late_blight,3f624c56-6bd1-4e7e-8fcd-d6b4480abe12___RS_LB 5215.JPG
+data\raw\Late_blight\07ff77ae-07b4-4a2d-9c4a-bb89bb4fb1ef___RS_LB 2985.JPG,Late_blight,07ff77ae-07b4-4a2d-9c4a-bb89bb4fb1ef___RS_LB 2985.JPG
+data\raw\Early_blight\f32a2d3d-9ac5-426c-81d1-bc279def9ba4___RS_Early.B 7636.JPG,Early_blight,f32a2d3d-9ac5-426c-81d1-bc279def9ba4___RS_Early.B 7636.JPG
+data\raw\Late_blight\c0aeb29d-b504-47b5-aa5f-940a4f3b4e89___RS_LB 2972.JPG,Late_blight,c0aeb29d-b504-47b5-aa5f-940a4f3b4e89___RS_LB 2972.JPG
+data\raw\Early_blight\56a6692b-15ba-4097-aba1-ba428b6fefcd___RS_Early.B 7899.JPG,Early_blight,56a6692b-15ba-4097-aba1-ba428b6fefcd___RS_Early.B 7899.JPG
+data\raw\Virus\20230712_133020.jpg,Virus,20230712_133020.jpg
+data\raw\Late_blight\d2d8eb78-d267-4c37-a18c-b39a0bb11d82___RS_LB 3147.JPG,Late_blight,d2d8eb78-d267-4c37-a18c-b39a0bb11d82___RS_LB 3147.JPG
+data\raw\Phytopthora\IMG_0288 - Copy.JPG,Phytopthora,IMG_0288 - Copy.JPG
+data\raw\Bacteria\IMG_1183.JPG,Bacteria,IMG_1183.JPG
+data\raw\Early_blight\8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B 7024.JPG,Early_blight,8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B 7024.JPG
+data\raw\Fungi\IMG_9458.JPG,Fungi,IMG_9458.JPG
+data\raw\Phytopthora\IMG_0248.JPG,Phytopthora,IMG_0248.JPG
+data\raw\Virus\20230815_150520.jpg,Virus,20230815_150520.jpg
+data\raw\Fungi\IMG_20230816_121041.jpg,Fungi,IMG_20230816_121041.jpg
+data\raw\Pest\IMG_20230816_143028~2.jpg,Pest,IMG_20230816_143028~2.jpg
+data\raw\Phytopthora\IMG_9561.JPG,Phytopthora,IMG_9561.JPG
+data\raw\Early_blight\107827b3-faa5-457c-97fd-3e34d2657f6b___RS_Early.B 7162.JPG,Early_blight,107827b3-faa5-457c-97fd-3e34d2657f6b___RS_Early.B 7162.JPG
+data\raw\Early_blight\1896de06-b6eb-4c01-a6c6-3247405765b8___RS_Early.B 8335.JPG,Early_blight,1896de06-b6eb-4c01-a6c6-3247405765b8___RS_Early.B 8335.JPG
+data\raw\Late_blight\c073bdde-9753-4035-8758-31fdc7cae993___RS_LB 2916.JPG,Late_blight,c073bdde-9753-4035-8758-31fdc7cae993___RS_LB 2916.JPG
+data\raw\Early_blight\d3240683-1636-4373-84aa-01ce594c19a0___RS_Early.B 8340.JPG,Early_blight,d3240683-1636-4373-84aa-01ce594c19a0___RS_Early.B 8340.JPG
+data\raw\Phytopthora\20230802_123443538.jpg,Phytopthora,20230802_123443538.jpg
+data\raw\Late_blight\85bbcdd2-a9fe-46d1-8e0e-f4e2c5e885fe___RS_LB 3218.JPG,Late_blight,85bbcdd2-a9fe-46d1-8e0e-f4e2c5e885fe___RS_LB 3218.JPG
+data\raw\Virus\20230815_112410.jpg,Virus,20230815_112410.jpg
+data\raw\Virus\20230815_151846.jpg,Virus,20230815_151846.jpg
+data\raw\Early_blight\de44f09b-b207-4805-8970-2999f9c2dc7c___RS_Early.B 7917.JPG,Early_blight,de44f09b-b207-4805-8970-2999f9c2dc7c___RS_Early.B 7917.JPG
+data\raw\Fungi\IMG_20230816_120944.jpg,Fungi,IMG_20230816_120944.jpg
+data\raw\Late_blight\2425fba0-8d06-4f05-9d0c-258c39777a37___RS_LB 4915.JPG,Late_blight,2425fba0-8d06-4f05-9d0c-258c39777a37___RS_LB 4915.JPG
+data\raw\Late_blight\8eb5691c-0098-45f6-a782-e297ed340bc0___RS_LB 4153.JPG,Late_blight,8eb5691c-0098-45f6-a782-e297ed340bc0___RS_LB 4153.JPG
+data\raw\Late_blight\b8b4064f-208a-46f9-b13e-5096fdbdb429___RS_LB 2591.JPG,Late_blight,b8b4064f-208a-46f9-b13e-5096fdbdb429___RS_LB 2591.JPG
+data\raw\Late_blight\1c207156-339d-4ec9-9153-9edb3bc95b5f___RS_LB 4833.JPG,Late_blight,1c207156-339d-4ec9-9153-9edb3bc95b5f___RS_LB 4833.JPG
+data\raw\Early_blight\3fb9fd25-3f61-4983-8342-2abb34d1b010___RS_Early.B 7920.JPG,Early_blight,3fb9fd25-3f61-4983-8342-2abb34d1b010___RS_Early.B 7920.JPG
+data\raw\Bacteria\20230815_113831.jpg,Bacteria,20230815_113831.jpg
+data\raw\Pest\IMG_0253 - Copy.JPG,Pest,IMG_0253 - Copy.JPG
+data\raw\Bacteria\IMG_0942.JPG,Bacteria,IMG_0942.JPG
+data\raw\Early_blight\719dcce1-73f0-42c8-9941-44eb2b237544___RS_Early.B 8059.JPG,Early_blight,719dcce1-73f0-42c8-9941-44eb2b237544___RS_Early.B 8059.JPG
+data\raw\Phytopthora\IMG_8080.JPG,Phytopthora,IMG_8080.JPG
+data\raw\Bacteria\20230816_140515.jpg,Bacteria,20230816_140515.jpg
+data\raw\Late_blight\420b4d84-d621-4a64-a8bd-30042f1a6609___RS_LB 2778.JPG,Late_blight,420b4d84-d621-4a64-a8bd-30042f1a6609___RS_LB 2778.JPG
+data\raw\Fungi\1692335403892.jpg,Fungi,1692335403892.jpg
+data\raw\Late_blight\fb9dc049-ec76-4502-9a11-13fb62a26ed4___RS_LB 3916.JPG,Late_blight,fb9dc049-ec76-4502-9a11-13fb62a26ed4___RS_LB 3916.JPG
+data\raw\Healthy\20230712_121645.jpg,Healthy,20230712_121645.jpg
+data\raw\Early_blight\efd49e70-b8d6-493f-9099-b3d9d534f365___RS_Early.B 7854.JPG,Early_blight,efd49e70-b8d6-493f-9099-b3d9d534f365___RS_Early.B 7854.JPG
+data\raw\Early_blight\1132bee0-fe6b-41a9-9583-7b959c2ca25f___RS_Early.B 7482.JPG,Early_blight,1132bee0-fe6b-41a9-9583-7b959c2ca25f___RS_Early.B 7482.JPG
+data\raw\Late_blight\a0622f86-c94d-4b59-9483-68c57dee81fa___RS_LB 4794.JPG,Late_blight,a0622f86-c94d-4b59-9483-68c57dee81fa___RS_LB 4794.JPG
+data\raw\Pest\IMG_20230816_140130.jpg,Pest,IMG_20230816_140130.jpg
+data\raw\Virus\IMG_20230815_150415.jpg,Virus,IMG_20230815_150415.jpg
+data\raw\Pest\IMG_20230815_115520~2.jpg,Pest,IMG_20230815_115520~2.jpg
+data\raw\Fungi\20230816_121002.jpg,Fungi,20230816_121002.jpg
+data\raw\Early_blight\21ca5caf-147b-4a1a-a2da-edfc1c81b62e___RS_Early.B 8926.JPG,Early_blight,21ca5caf-147b-4a1a-a2da-edfc1c81b62e___RS_Early.B 8926.JPG
+data\raw\Bacteria\IMG_0354.JPG,Bacteria,IMG_0354.JPG
+data\raw\Early_blight\7ace85c1-a488-4df2-8162-b73c17032099___RS_Early.B 7541.JPG,Early_blight,7ace85c1-a488-4df2-8162-b73c17032099___RS_Early.B 7541.JPG
+data\raw\Late_blight\05a51957-779c-4a2f-bf2a-d1fb03947793___RS_LB 4772.JPG,Late_blight,05a51957-779c-4a2f-bf2a-d1fb03947793___RS_LB 4772.JPG
+data\raw\Pest\IMG_20230816_140825~2.jpg,Pest,IMG_20230816_140825~2.jpg
+data\raw\Late_blight\8829e413-5a7a-4680-b873-e71dfa9dbfe4___RS_LB 3974.JPG,Late_blight,8829e413-5a7a-4680-b873-e71dfa9dbfe4___RS_LB 3974.JPG
+data\raw\Early_blight\87c0254c-c987-4c54-adda-45c5e7346170___RS_Early.B 8848.JPG,Early_blight,87c0254c-c987-4c54-adda-45c5e7346170___RS_Early.B 8848.JPG
+data\raw\Pest\IMG_20230816_140103.jpg,Pest,IMG_20230816_140103.jpg
+data\raw\Bacteria\20230816_142650.jpg,Bacteria,20230816_142650.jpg
+data\raw\Pest\IMG_1256.JPG,Pest,IMG_1256.JPG
+data\raw\Healthy\20230816_115745.jpg,Healthy,20230816_115745.jpg
+data\raw\Late_blight\74d5c9b6-c99f-4ba2-8180-6c35bb5de820___RS_LB 2811.JPG,Late_blight,74d5c9b6-c99f-4ba2-8180-6c35bb5de820___RS_LB 2811.JPG
+data\raw\Late_blight\74d51dd6-7990-4d3a-95c6-5d67fac5cdad___RS_LB 2578.JPG,Late_blight,74d51dd6-7990-4d3a-95c6-5d67fac5cdad___RS_LB 2578.JPG
+data\raw\Early_blight\d829c0d8-016e-4337-b80f-bb1f329b1d4d___RS_Early.B 8797.JPG,Early_blight,d829c0d8-016e-4337-b80f-bb1f329b1d4d___RS_Early.B 8797.JPG
+data\raw\Early_blight\2ce7e8d7-4cc9-4ab3-9d22-8f7ad21d8eda___RS_Early.B 8609.JPG,Early_blight,2ce7e8d7-4cc9-4ab3-9d22-8f7ad21d8eda___RS_Early.B 8609.JPG
+data\raw\Bacteria\IMG_20230816_140753.jpg,Bacteria,IMG_20230816_140753.jpg
+data\raw\Late_blight\db973ce3-7198-4ae8-910a-bb1a3046e353___RS_LB 5152.JPG,Late_blight,db973ce3-7198-4ae8-910a-bb1a3046e353___RS_LB 5152.JPG
+data\raw\Fungi\20230815_122648.jpg,Fungi,20230815_122648.jpg
+data\raw\Virus\20230815_114235.jpg,Virus,20230815_114235.jpg
+data\raw\Early_blight\833c373e-d3fc-4d1e-86e7-8bd11d41a33e___RS_Early.B 7509.JPG,Early_blight,833c373e-d3fc-4d1e-86e7-8bd11d41a33e___RS_Early.B 7509.JPG
+data\raw\Fungi\20230712_153941.jpg,Fungi,20230712_153941.jpg
+data\raw\Pest\IMG_0323.JPG,Pest,IMG_0323.JPG
+data\raw\Bacteria\IMG_0924.JPG,Bacteria,IMG_0924.JPG
+data\raw\Late_blight\f87fce12-78df-4a8c-92ff-8c0b83cc82b9___RS_LB 3025.JPG,Late_blight,f87fce12-78df-4a8c-92ff-8c0b83cc82b9___RS_LB 3025.JPG
+data\raw\Late_blight\30920583-57a6-4cc2-81d6-84879ec3af46___RS_LB 4930.JPG,Late_blight,30920583-57a6-4cc2-81d6-84879ec3af46___RS_LB 4930.JPG
+data\raw\Late_blight\89ad1a3c-db3c-4d75-9c92-64cea1433f89___RS_LB 2820.JPG,Late_blight,89ad1a3c-db3c-4d75-9c92-64cea1433f89___RS_LB 2820.JPG
+data\raw\Healthy\20230712_133008.jpg,Healthy,20230712_133008.jpg
+data\raw\Virus\20230802_115956.jpg,Virus,20230802_115956.jpg
+data\raw\Early_blight\12a7bc09-8d7f-4790-8046-6e3f12f71399___RS_Early.B 7973.JPG,Early_blight,12a7bc09-8d7f-4790-8046-6e3f12f71399___RS_Early.B 7973.JPG
+data\raw\Early_blight\10a3920b-dd04-406d-8bbd-f92f221e4dee___RS_Early.B 7035.JPG,Early_blight,10a3920b-dd04-406d-8bbd-f92f221e4dee___RS_Early.B 7035.JPG
+data\raw\Late_blight\456f2c6a-a8c8-4dac-9de1-73668e39cd01___RS_LB 3008.JPG,Late_blight,456f2c6a-a8c8-4dac-9de1-73668e39cd01___RS_LB 3008.JPG
+data\raw\Bacteria\IMG_1185.JPG,Bacteria,IMG_1185.JPG
+data\raw\Bacteria\IMG_0363.JPG,Bacteria,IMG_0363.JPG
+data\raw\Pest\20230816_140322.jpg,Pest,20230816_140322.jpg
+data\raw\Nematode\20230816_082906.jpg,Nematode,20230816_082906.jpg
+data\raw\Virus\20230815_154044.jpg,Virus,20230815_154044.jpg
+data\raw\Fungi\IMG_20230816_113939~2.jpg,Fungi,IMG_20230816_113939~2.jpg
+data\raw\Fungi\1692332350480.jpg,Fungi,1692332350480.jpg
+data\raw\Fungi\IMG_20230815_122340~2(1).jpg,Fungi,IMG_20230815_122340~2(1).jpg
+data\raw\Late_blight\319335dc-6a48-4fe4-932b-326f1455f3cd___RS_LB 4703.JPG,Late_blight,319335dc-6a48-4fe4-932b-326f1455f3cd___RS_LB 4703.JPG
+data\raw\Fungi\IMG_20230816_121903.jpg,Fungi,IMG_20230816_121903.jpg
+data\raw\Early_blight\f6d8c094-970c-41c5-9f5d-3ded7c8f7b15___RS_Early.B 6846.JPG,Early_blight,f6d8c094-970c-41c5-9f5d-3ded7c8f7b15___RS_Early.B 6846.JPG
+data\raw\Fungi\20230712_160046.jpg,Fungi,20230712_160046.jpg
+data\raw\Fungi\20230815_112844.jpg,Fungi,20230815_112844.jpg
+data\raw\Phytopthora\20230712_120436.jpg,Phytopthora,20230712_120436.jpg
+data\raw\Healthy\20230922_154218.jpg,Healthy,20230922_154218.jpg
+data\raw\Phytopthora\20230802_124741.jpg,Phytopthora,20230802_124741.jpg
+data\raw\Late_blight\cf2e3e15-2284-474a-a36a-b102aa7d50cc___RS_LB 4760.JPG,Late_blight,cf2e3e15-2284-474a-a36a-b102aa7d50cc___RS_LB 4760.JPG
+data\raw\Fungi\20230802_112205273.jpg,Fungi,20230802_112205273.jpg
+data\raw\Nematode\IMG_8338.JPG,Nematode,IMG_8338.JPG
+data\raw\Nematode\20230712_153742.jpg,Nematode,20230712_153742.jpg
+data\raw\Virus\IMG_0840.JPG,Virus,IMG_0840.JPG
+data\raw\Virus\IMG_0309.JPG,Virus,IMG_0309.JPG
+data\raw\Healthy\20230815_120822.jpg,Healthy,20230815_120822.jpg
+data\raw\Late_blight\f7bbae6e-df8d-4f2a-b8b8-52c94d9bf2b5___RS_LB 3212.JPG,Late_blight,f7bbae6e-df8d-4f2a-b8b8-52c94d9bf2b5___RS_LB 3212.JPG
+data\raw\Late_blight\5b12fde1-fe3a-49fe-8430-479775018322___RS_LB 3071.JPG,Late_blight,5b12fde1-fe3a-49fe-8430-479775018322___RS_LB 3071.JPG
+data\raw\Late_blight\97a903b7-9b9b-4014-9052-a284f21bfd53___RS_LB 2511.JPG,Late_blight,97a903b7-9b9b-4014-9052-a284f21bfd53___RS_LB 2511.JPG
+data\raw\Virus\20230815_113731.jpg,Virus,20230815_113731.jpg
+data\raw\Early_blight\f194debe-e829-4bfb-af09-681e50358f50___RS_Early.B 7739.JPG,Early_blight,f194debe-e829-4bfb-af09-681e50358f50___RS_Early.B 7739.JPG
+data\raw\Pest\IMG_0229.JPG,Pest,IMG_0229.JPG
+data\raw\Late_blight\e2326741-ee59-4e3c-86bf-9e81ccf50b6b___RS_LB 4147.JPG,Late_blight,e2326741-ee59-4e3c-86bf-9e81ccf50b6b___RS_LB 4147.JPG
+data\raw\Early_blight\69ee53e1-a9b6-4e97-bc5f-f91617bc87ab___RS_Early.B 7987.JPG,Early_blight,69ee53e1-a9b6-4e97-bc5f-f91617bc87ab___RS_Early.B 7987.JPG
+data\raw\Phytopthora\IMG_20230816_121440.jpg,Phytopthora,IMG_20230816_121440.jpg
+data\raw\Bacteria\IMG_1032.JPG,Bacteria,IMG_1032.JPG
+data\raw\Pest\IMG_4806.JPG,Pest,IMG_4806.JPG
+data\raw\Healthy\20230712_123714.jpg,Healthy,20230712_123714.jpg
+data\raw\Pest\IMG_20230816_141325.jpg,Pest,IMG_20230816_141325.jpg
+data\raw\Late_blight\07fea080-7f6b-48e9-b6b5-10d7daf57610___RS_LB 3210.JPG,Late_blight,07fea080-7f6b-48e9-b6b5-10d7daf57610___RS_LB 3210.JPG
+data\raw\Bacteria\20230815_111708.jpg,Bacteria,20230815_111708.jpg
+data\raw\Fungi\20230712_122911.jpg,Fungi,20230712_122911.jpg
+data\raw\Early_blight\2356a4d6-8015-434e-a5f8-03197fef2c28___RS_Early.B 8139.JPG,Early_blight,2356a4d6-8015-434e-a5f8-03197fef2c28___RS_Early.B 8139.JPG
+data\raw\Healthy\20230815_122517.jpg,Healthy,20230815_122517.jpg
+data\raw\Fungi\IMG_20230816_113645.jpg,Fungi,IMG_20230816_113645.jpg
+data\raw\Virus\20230815_112931.jpg,Virus,20230815_112931.jpg
+data\raw\Bacteria\IMG_1170.JPG,Bacteria,IMG_1170.JPG
+data\raw\Phytopthora\IMG_4815 (1).JPG,Phytopthora,IMG_4815 (1).JPG
+data\raw\Pest\20230802_105220186.jpg,Pest,20230802_105220186.jpg
+data\raw\Healthy\20230815_112459.jpg,Healthy,20230815_112459.jpg
+data\raw\Early_blight\bcc2199e-a6c6-4e0d-a7a7-f7c4b25f2c04___RS_Early.B 7007.JPG,Early_blight,bcc2199e-a6c6-4e0d-a7a7-f7c4b25f2c04___RS_Early.B 7007.JPG
+data\raw\Bacteria\IMG_1090.JPG,Bacteria,IMG_1090.JPG
+data\raw\Bacteria\IMG_0732.JPG,Bacteria,IMG_0732.JPG
+data\raw\Pest\IMG_4830.JPG,Pest,IMG_4830.JPG
+data\raw\Virus\IMG_0471.JPG,Virus,IMG_0471.JPG
+data\raw\Late_blight\1d4acd15-f2b9-4a2e-87da-9d5a2cc6a642___RS_LB 2752.JPG,Late_blight,1d4acd15-f2b9-4a2e-87da-9d5a2cc6a642___RS_LB 2752.JPG
+data\raw\Pest\IMG_4761.JPG,Pest,IMG_4761.JPG
+data\raw\Healthy\ec6e43d3-512d-4908-99f2-c9e2a0be54be___RS_HL 4202.JPG,Healthy,ec6e43d3-512d-4908-99f2-c9e2a0be54be___RS_HL 4202.JPG
+data\raw\Late_blight\9a7d732b-12e2-400f-9206-068df63de1ba___RS_LB 2926.JPG,Late_blight,9a7d732b-12e2-400f-9206-068df63de1ba___RS_LB 2926.JPG
+data\raw\Fungi\IMG_20230815_112257.jpg,Fungi,IMG_20230815_112257.jpg
+data\raw\Fungi\IMG_20230815_152113~2.jpg,Fungi,IMG_20230815_152113~2.jpg
+data\raw\Early_blight\e11d63b8-93fa-41ba-b826-99811ee4c232___RS_Early.B 7387.JPG,Early_blight,e11d63b8-93fa-41ba-b826-99811ee4c232___RS_Early.B 7387.JPG
+data\raw\Late_blight\58475c1a-a4c2-43bd-b361-60523b5c62d2___RS_LB 3912.JPG,Late_blight,58475c1a-a4c2-43bd-b361-60523b5c62d2___RS_LB 3912.JPG
+data\raw\Pest\20230802_125959.jpg,Pest,20230802_125959.jpg
+data\raw\Late_blight\6d51bd53-2556-410c-b151-547c83a06287___RS_LB 3276.JPG,Late_blight,6d51bd53-2556-410c-b151-547c83a06287___RS_LB 3276.JPG
+data\raw\Late_blight\351386f8-c501-45f6-ab0d-e9c1d1584204___RS_LB 5195.JPG,Late_blight,351386f8-c501-45f6-ab0d-e9c1d1584204___RS_LB 5195.JPG
+data\raw\Phytopthora\IMG_9425.JPG,Phytopthora,IMG_9425.JPG
+data\raw\Healthy\77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL 1748.JPG,Healthy,77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL 1748.JPG
+data\raw\Fungi\IMG_9451.JPG,Fungi,IMG_9451.JPG
+data\raw\Late_blight\6f669c56-c863-4c71-be49-8d020d3f7d3d___RS_LB 5128.JPG,Late_blight,6f669c56-c863-4c71-be49-8d020d3f7d3d___RS_LB 5128.JPG
+data\raw\Pest\20230712_121220.jpg,Pest,20230712_121220.jpg
+data\raw\Phytopthora\20230802_124725.jpg,Phytopthora,20230802_124725.jpg
+data\raw\Early_blight\b99ba68b-4608-4335-a292-b4249d83762d___RS_Early.B 9096.JPG,Early_blight,b99ba68b-4608-4335-a292-b4249d83762d___RS_Early.B 9096.JPG
+data\raw\Phytopthora\IMG_9509 (1).JPG,Phytopthora,IMG_9509 (1).JPG
+data\raw\Late_blight\7153262e-7692-441e-9677-056a349d62b8___RS_LB 4813.JPG,Late_blight,7153262e-7692-441e-9677-056a349d62b8___RS_LB 4813.JPG
+data\raw\Pest\IMG_4801.JPG,Pest,IMG_4801.JPG
+data\raw\Pest\20230802_115353.jpg,Pest,20230802_115353.jpg
+data\raw\Fungi\IMG_20230815_112512~2.jpg,Fungi,IMG_20230815_112512~2.jpg
+data\raw\Virus\IMG_0249.JPG,Virus,IMG_0249.JPG
+data\raw\Early_blight\d44a363d-c186-416e-8fad-1a456699bba2___RS_Early.B 7229.JPG,Early_blight,d44a363d-c186-416e-8fad-1a456699bba2___RS_Early.B 7229.JPG
+data\raw\Virus\IMG_0469.JPG,Virus,IMG_0469.JPG
+data\raw\Nematode\20230815_122915.jpg,Nematode,20230815_122915.jpg
+data\raw\Pest\20230816_122913.jpg,Pest,20230816_122913.jpg
+data\raw\Healthy\20230802_123822.jpg,Healthy,20230802_123822.jpg
+data\raw\Fungi\IMG_0776.JPG,Fungi,IMG_0776.JPG
+data\raw\Early_blight\dbdf96e5-2f8c-475b-b2dd-40a5862e10f7___RS_Early.B 8017.JPG,Early_blight,dbdf96e5-2f8c-475b-b2dd-40a5862e10f7___RS_Early.B 8017.JPG
+data\raw\Late_blight\2addf5f2-acc5-448c-88a1-fe357d9aa9ac___RS_LB 4736.JPG,Late_blight,2addf5f2-acc5-448c-88a1-fe357d9aa9ac___RS_LB 4736.JPG
+data\raw\Bacteria\IMG_0910.JPG,Bacteria,IMG_0910.JPG
+data\raw\Early_blight\a2fe15c2-1900-4fbd-9e69-771b1693cc68___RS_Early.B 7398.JPG,Early_blight,a2fe15c2-1900-4fbd-9e69-771b1693cc68___RS_Early.B 7398.JPG
+data\raw\Phytopthora\IMG_9539.JPG,Phytopthora,IMG_9539.JPG
+data\raw\Late_blight\eb2bd15b-a92b-4302-98a1-bbc13a0f95bb___RS_LB 2671.JPG,Late_blight,eb2bd15b-a92b-4302-98a1-bbc13a0f95bb___RS_LB 2671.JPG
+data\raw\Fungi\IMG_20230815_120159~2.jpg,Fungi,IMG_20230815_120159~2.jpg
+data\raw\Early_blight\a4168403-2458-4f28-84f7-949050905878___RS_Early.B 8450.JPG,Early_blight,a4168403-2458-4f28-84f7-949050905878___RS_Early.B 8450.JPG
+data\raw\Pest\20230802_112758979.jpg,Pest,20230802_112758979.jpg
+data\raw\Late_blight\1fa9afe6-69ab-4206-a8b5-487531391a37___RS_LB 3006.JPG,Late_blight,1fa9afe6-69ab-4206-a8b5-487531391a37___RS_LB 3006.JPG
+data\raw\Fungi\1692334247584.jpg,Fungi,1692334247584.jpg
+data\raw\Late_blight\d879aaf6-d557-4607-b7a0-ecbb3761f152___RS_LB 4723.JPG,Late_blight,d879aaf6-d557-4607-b7a0-ecbb3761f152___RS_LB 4723.JPG
+data\raw\Early_blight\f536e055-666e-41cc-8ee2-c1af2fbf754a___RS_Early.B 8104.JPG,Early_blight,f536e055-666e-41cc-8ee2-c1af2fbf754a___RS_Early.B 8104.JPG
+data\raw\Fungi\IMG_0257 (1).JPG,Fungi,IMG_0257 (1).JPG
+data\raw\Bacteria\20230816_141228.jpg,Bacteria,20230816_141228.jpg
+data\raw\Pest\IMG_0278.JPG,Pest,IMG_0278.JPG
+data\raw\Virus\IMG_0934.JPG,Virus,IMG_0934.JPG
+data\raw\Bacteria\20230816_134736.jpg,Bacteria,20230816_134736.jpg
+data\raw\Early_blight\e00d7014-a909-4d98-892b-da96a2be9a2e___RS_Early.B 7535.JPG,Early_blight,e00d7014-a909-4d98-892b-da96a2be9a2e___RS_Early.B 7535.JPG
+data\raw\Early_blight\da412bf6-6bee-4dfb-8bc7-b6e9f80971ff___RS_Early.B 6808.JPG,Early_blight,da412bf6-6bee-4dfb-8bc7-b6e9f80971ff___RS_Early.B 6808.JPG
+data\raw\Late_blight\20e59080-5a86-4aa8-b5b1-d886a4b273b7___RS_LB 3165.JPG,Late_blight,20e59080-5a86-4aa8-b5b1-d886a4b273b7___RS_LB 3165.JPG
+data\raw\Bacteria\20230816_134702.jpg,Bacteria,20230816_134702.jpg
+data\raw\Fungi\20230802_112209100.jpg,Fungi,20230802_112209100.jpg
+data\raw\Fungi\IMG_0265 (1).JPG,Fungi,IMG_0265 (1).JPG
+data\raw\Early_blight\72f9e596-8d1e-4ffd-923d-55645d6adca1___RS_Early.B 7704.JPG,Early_blight,72f9e596-8d1e-4ffd-923d-55645d6adca1___RS_Early.B 7704.JPG
+data\raw\Phytopthora\20230802_124302.jpg,Phytopthora,20230802_124302.jpg
+data\raw\Pest\20230802_120801487.jpg,Pest,20230802_120801487.jpg
+data\raw\Healthy\IMG_4696.JPG,Healthy,IMG_4696.JPG
+data\raw\Early_blight\c5cb3e89-f00f-4032-80ca-eb39bead0796___RS_Early.B 8645.JPG,Early_blight,c5cb3e89-f00f-4032-80ca-eb39bead0796___RS_Early.B 8645.JPG
+data\raw\Late_blight\e01f9ba8-74b9-48d8-b96c-ac48463a4d29___RS_LB 2857.JPG,Late_blight,e01f9ba8-74b9-48d8-b96c-ac48463a4d29___RS_LB 2857.JPG
+data\raw\Early_blight\9cd81447-0701-4969-86aa-5f20269923c5___RS_Early.B 8790.JPG,Early_blight,9cd81447-0701-4969-86aa-5f20269923c5___RS_Early.B 8790.JPG
+data\raw\Bacteria\20230815_153552.jpg,Bacteria,20230815_153552.jpg
+data\raw\Phytopthora\20230802_125507.jpg,Phytopthora,20230802_125507.jpg
+data\raw\Pest\20230712_150155.jpg,Pest,20230712_150155.jpg
+data\raw\Bacteria\20230816_141402.jpg,Bacteria,20230816_141402.jpg
+data\raw\Phytopthora\IMG_9518 (1).JPG,Phytopthora,IMG_9518 (1).JPG
+data\raw\Early_blight\fdc1f5ed-66b5-4564-8957-055905b8a569___RS_Early.B 8244.JPG,Early_blight,fdc1f5ed-66b5-4564-8957-055905b8a569___RS_Early.B 8244.JPG
+data\raw\Late_blight\30777af4-cbb4-44bf-946b-f1c5d17704ee___RS_LB 4822.JPG,Late_blight,30777af4-cbb4-44bf-946b-f1c5d17704ee___RS_LB 4822.JPG
+data\raw\Pest\20230815_153541.jpg,Pest,20230815_153541.jpg
+data\raw\Healthy\20230712_121641.jpg,Healthy,20230712_121641.jpg
+data\raw\Bacteria\IMG_0941.JPG,Bacteria,IMG_0941.JPG
+data\raw\Early_blight\ffef8a3b-3e8a-4c24-a27e-64c41708f7a0___RS_Early.B 7132.JPG,Early_blight,ffef8a3b-3e8a-4c24-a27e-64c41708f7a0___RS_Early.B 7132.JPG
+data\raw\Bacteria\IMG_20230816_140258.jpg,Bacteria,IMG_20230816_140258.jpg
+data\raw\Bacteria\IMG_1111.JPG,Bacteria,IMG_1111.JPG
+data\raw\Early_blight\0e0a1b51-f61c-4934-bc57-a820af1faacb___RS_Early.B 7147.JPG,Early_blight,0e0a1b51-f61c-4934-bc57-a820af1faacb___RS_Early.B 7147.JPG
+data\raw\Late_blight\0f50da52-cb4a-4391-982a-d6cf9c9d9917___RS_LB 2581.JPG,Late_blight,0f50da52-cb4a-4391-982a-d6cf9c9d9917___RS_LB 2581.JPG
+data\raw\Fungi\IMG_20230816_122600.jpg,Fungi,IMG_20230816_122600.jpg
+data\raw\Healthy\20230802_120336970.jpg,Healthy,20230802_120336970.jpg
+data\raw\Bacteria\20230816_135539.jpg,Bacteria,20230816_135539.jpg
+data\raw\Fungi\IMG_4753.JPG,Fungi,IMG_4753.JPG
+data\raw\Healthy\20230712_130753.jpg,Healthy,20230712_130753.jpg
+data\raw\Late_blight\e231f522-dd72-4fbd-94b4-5b4d7b935269___RS_LB 4131.JPG,Late_blight,e231f522-dd72-4fbd-94b4-5b4d7b935269___RS_LB 4131.JPG
+data\raw\Early_blight\d50dde4d-fe2f-4e8c-b336-69be71e34ce8___RS_Early.B 6905.JPG,Early_blight,d50dde4d-fe2f-4e8c-b336-69be71e34ce8___RS_Early.B 6905.JPG
+data\raw\Healthy\20230802_123219828.jpg,Healthy,20230802_123219828.jpg
+data\raw\Phytopthora\IMG_0261 - Copy (1).JPG,Phytopthora,IMG_0261 - Copy (1).JPG
+data\raw\Pest\20230802_125209.jpg,Pest,20230802_125209.jpg
+data\raw\Early_blight\7ba072ea-9bb3-4b5e-8fff-82758ff3f722___RS_Early.B 8262.JPG,Early_blight,7ba072ea-9bb3-4b5e-8fff-82758ff3f722___RS_Early.B 8262.JPG
+data\raw\Early_blight\5fa695b2-89f6-4c5e-b62f-2be61e2ad23a___RS_Early.B 7232.JPG,Early_blight,5fa695b2-89f6-4c5e-b62f-2be61e2ad23a___RS_Early.B 7232.JPG
+data\raw\Early_blight\b35e4c48-e54e-4e42-a399-b236209314f4___RS_Early.B 8231.JPG,Early_blight,b35e4c48-e54e-4e42-a399-b236209314f4___RS_Early.B 8231.JPG
+data\raw\Fungi\IMG_0158.JPG,Fungi,IMG_0158.JPG
+data\raw\Virus\20230816_114355.jpg,Virus,20230816_114355.jpg
+data\raw\Late_blight\e1197d2d-980a-45b1-9ab1-5b7cc36660bc___RS_LB 3885.JPG,Late_blight,e1197d2d-980a-45b1-9ab1-5b7cc36660bc___RS_LB 3885.JPG
+data\raw\Early_blight\5dfcdf05-e64e-4992-84b8-a9fc9c49ce3c___RS_Early.B 6711.JPG,Early_blight,5dfcdf05-e64e-4992-84b8-a9fc9c49ce3c___RS_Early.B 6711.JPG
+data\raw\Bacteria\IMG_1225.JPG,Bacteria,IMG_1225.JPG
+data\raw\Fungi\IMG_8201.JPG,Fungi,IMG_8201.JPG
+data\raw\Early_blight\82654962-5b0d-44ed-9ca4-84be55ba23a6___RS_Early.B 6877.JPG,Early_blight,82654962-5b0d-44ed-9ca4-84be55ba23a6___RS_Early.B 6877.JPG
+data\raw\Late_blight\7460b5a9-4356-40b3-acf6-e61601a63b62___RS_LB 4965.JPG,Late_blight,7460b5a9-4356-40b3-acf6-e61601a63b62___RS_LB 4965.JPG
+data\raw\Early_blight\7486e823-64f7-4e43-ab51-26261b077fc2___RS_Early.B 6785.JPG,Early_blight,7486e823-64f7-4e43-ab51-26261b077fc2___RS_Early.B 6785.JPG
+data\raw\Nematode\20230802_105249.jpg,Nematode,20230802_105249.jpg
+data\raw\Late_blight\fe3eb287-4bb0-4a6f-b50e-253370bd19dd___RS_LB 4073.JPG,Late_blight,fe3eb287-4bb0-4a6f-b50e-253370bd19dd___RS_LB 4073.JPG
+data\raw\Bacteria\20230816_141752.jpg,Bacteria,20230816_141752.jpg
+data\raw\Fungi\20230802_113046.jpg,Fungi,20230802_113046.jpg
+data\raw\Phytopthora\IMG_4719.JPG,Phytopthora,IMG_4719.JPG
+data\raw\Early_blight\8ace7694-6cdd-495e-a987-f9c0ee82bcab___RS_Early.B 9016.JPG,Early_blight,8ace7694-6cdd-495e-a987-f9c0ee82bcab___RS_Early.B 9016.JPG
+data\raw\Fungi\20230712_155554.jpg,Fungi,20230712_155554.jpg
+data\raw\Pest\20230802_104926298.jpg,Pest,20230802_104926298.jpg
+data\raw\Pest\IMG_0273.JPG,Pest,IMG_0273.JPG
+data\raw\Fungi\1692333632169.jpg,Fungi,1692333632169.jpg
+data\raw\Bacteria\20230815_113829.jpg,Bacteria,20230815_113829.jpg
+data\raw\Nematode\IMG_0194.JPG,Nematode,IMG_0194.JPG
+data\raw\Pest\IMG_20230816_141440.jpg,Pest,IMG_20230816_141440.jpg
+data\raw\Healthy\07dfb451-4378-49d1-b699-33a5fc49ff07___RS_HL 5399.JPG,Healthy,07dfb451-4378-49d1-b699-33a5fc49ff07___RS_HL 5399.JPG
+data\raw\Pest\20230922_163528.jpg,Pest,20230922_163528.jpg
+data\raw\Bacteria\IMG_0328.JPG,Bacteria,IMG_0328.JPG
+data\raw\Bacteria\IMG_0912.JPG,Bacteria,IMG_0912.JPG
+data\raw\Virus\IMG_0315 (1).JPG,Virus,IMG_0315 (1).JPG
+data\raw\Phytopthora\IMG_9524.JPG,Phytopthora,IMG_9524.JPG
+data\raw\Late_blight\a33c54fb-6b78-4235-b34e-42f85f6bc5b8___RS_LB 5060.JPG,Late_blight,a33c54fb-6b78-4235-b34e-42f85f6bc5b8___RS_LB 5060.JPG
+data\raw\Late_blight\d30d25f1-74ca-42d3-804d-c31b06720c46___RS_LB 2817.JPG,Late_blight,d30d25f1-74ca-42d3-804d-c31b06720c46___RS_LB 2817.JPG
+data\raw\Late_blight\51eb7a7a-99b4-47c4-be2f-2de9f4e5e985___RS_LB 5182.JPG,Late_blight,51eb7a7a-99b4-47c4-be2f-2de9f4e5e985___RS_LB 5182.JPG
+data\raw\Virus\IMG_0830.JPG,Virus,IMG_0830.JPG
+data\raw\Phytopthora\20230802_124436.jpg,Phytopthora,20230802_124436.jpg
+data\raw\Fungi\20230802_113011.jpg,Fungi,20230802_113011.jpg
+data\raw\Bacteria\IMG_1258.JPG,Bacteria,IMG_1258.JPG
+data\raw\Phytopthora\20230712_154232.jpg,Phytopthora,20230712_154232.jpg
+data\raw\Healthy\IMG_20230815_122148~2.jpg,Healthy,IMG_20230815_122148~2.jpg
+data\raw\Early_blight\dcc9e3a4-04dc-46fd-9bc9-739334aa23d9___RS_Early.B 6799.JPG,Early_blight,dcc9e3a4-04dc-46fd-9bc9-739334aa23d9___RS_Early.B 6799.JPG
+data\raw\Healthy\00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864.JPG,Healthy,00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864.JPG
+data\raw\Healthy\20230815_115544.jpg,Healthy,20230815_115544.jpg
+data\raw\Early_blight\eec2262a-d16b-42e1-99bd-6891ef392988___RS_Early.B 7085.JPG,Early_blight,eec2262a-d16b-42e1-99bd-6891ef392988___RS_Early.B 7085.JPG
+data\raw\Pest\IMG_0797.JPG,Pest,IMG_0797.JPG
+data\raw\Virus\20230815_120324.jpg,Virus,20230815_120324.jpg
+data\raw\Late_blight\37075adc-dd51-4a5b-8a6c-0649cb98516b___RS_LB 2678.JPG,Late_blight,37075adc-dd51-4a5b-8a6c-0649cb98516b___RS_LB 2678.JPG
+data\raw\Fungi\20230802_111840.jpg,Fungi,20230802_111840.jpg
+data\raw\Pest\IMG_0183.JPG,Pest,IMG_0183.JPG
+data\raw\Fungi\IMG_4662.JPG,Fungi,IMG_4662.JPG
+data\raw\Pest\IMG_0349 - Copy.JPG,Pest,IMG_0349 - Copy.JPG
+data\raw\Pest\IMG_0286.JPG,Pest,IMG_0286.JPG
+data\raw\Pest\20230802_120246564.jpg,Pest,20230802_120246564.jpg
+data\raw\Virus\20230815_150906.jpg,Virus,20230815_150906.jpg
+data\raw\Late_blight\84182903-22be-4563-8276-d72413958ada___RS_LB 4027.JPG,Late_blight,84182903-22be-4563-8276-d72413958ada___RS_LB 4027.JPG
+data\raw\Bacteria\IMG_1152.JPG,Bacteria,IMG_1152.JPG
+data\raw\Fungi\IMG_20230815_121940.jpg,Fungi,IMG_20230815_121940.jpg

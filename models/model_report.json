@@ -1,0 +1,20 @@
+{
+  "test_accuracy": 0.8394904732704163,
+  "model_size_mb": 5.002540588378906,
+  "classes": [
+    "Bacteria",
+    "Early_blight",
+    "Fungi",
+    "Healthy",
+    "Late_blight",
+    "Nematode",
+    "Pest",
+    "Phytopthora",
+    "Virus"
+  ],
+  "input_shape": [
+    224,
+    224
+  ],
+  "quantization": "INT8"
+}
